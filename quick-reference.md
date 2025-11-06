@@ -16,6 +16,7 @@
 | Virtual company | Ch 9 | Semester-long project |
 | Complete unit design | Ch 10 | Backward design |
 | Research assistant | Ch 11 | Graduate focus |
+| Static → Interactive | Ch 13 | Transform documents to HTML |
 
 ## 🚀 3 Techniques to Try This Week
 

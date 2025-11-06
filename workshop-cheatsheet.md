@@ -133,6 +133,7 @@ Include specific challenges for each.
 - **Chapter 4:** Six essential techniques  
 - **Chapter 5:** Conversation simulations
 - **Chapter 7:** Assessment redesign
+- **Chapter 13:** Transform static documents to interactive HTML
 - **Appendix A:** Copy-paste prompt library
 
 **Full book:** `github.com/michaelborck-education/ai-teaching-partner-hr`
