@@ -31,7 +31,6 @@ format:
     toc: true
     number-sections: true
     code-tools: true
-    css: custom.css
   pdf:
     documentclass: book
     toc: true
