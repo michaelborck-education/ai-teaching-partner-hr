@@ -3,6 +3,7 @@
 ## Why HR Students Need Critique Skills
 
 Imagine you just hired a brilliant but inexperienced HR assistant. They work fast, have lots of ideas, but sometimes:
+
 - Overcomplicate simple policy solutions
 - Miss important legal considerations
 - Write recommendations that sound good but have practical flaws
@@ -48,13 +49,12 @@ The difference between good HR professionals and great ones isn't whether they u
 - "Break this down into step-by-step actions that need to be taken"
 
 **Example**:
-```
-# ❌ AI gives you this:
+
+# AI gives you this:
 "We recommend implementing a holistic performance ecosystem leveraging synergistic feedback loops and agile recalibration mechanisms."
 
-# ✅ Ask for this instead:
+# Ask for better resposne in plain english:
 "We recommend creating a performance management system where employees get feedback from multiple sources throughout the year, not just once annually. This includes regular check-ins with managers, peer feedback on projects, and quarterly progress reviews against clear goals."
-```
 
 ---
 
