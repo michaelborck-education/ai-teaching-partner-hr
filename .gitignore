@@ -1,0 +1,21 @@
+# Quarto build files
+_book/
+.quarto/
+.qmd-render/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log

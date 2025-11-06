@@ -1,0 +1,37 @@
+project:
+  type: book
+  
+book:
+  title: "AI as a Teaching Partner: Practical Applications for Human Resource Education"
+  author: "HR Education Team"
+  chapters:
+    - index.qmd
+    - chapter-01-introduction.qmd
+    - chapter-02-getting-started.qmd
+    - chapter-03-five-techniques.qmd
+    - chapter-04-flight-simulator.qmd
+    - chapter-05-self-assessment.qmd
+    - chapter-06-virtual-company.qmd
+    - chapter-07-process-assessment.qmd
+    - chapter-08-first-steps.qmd
+    - chapter-09-ethics-integrity.qmd
+    - chapter-10-unit-design.qmd
+    - chapter-11-research-assistant.qmd
+    - chapter-12-conclusion.qmd
+    - appendix-a-prompt-library.qmd
+    - appendix-b-workshop-guide.qmd
+    - appendix-c-curtin-alignment.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-tools: true
+  pdf:
+    documentclass: book
+    toc: true
+    number-sections: true
+    
+metadata:
+  description: "A practical guide for HR educators on integrating AI into teaching"
