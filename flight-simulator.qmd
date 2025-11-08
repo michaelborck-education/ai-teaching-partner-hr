@@ -386,6 +386,248 @@ The three-phase structure remains the same.
 
 ---
 
+## Cross-Discipline Applications: Flight Simulator Adaptations
+
+The flight simulator technique can be adapted for conversational skills in any business discipline. Below are examples showing how the three-phase system applies to different professional contexts.
+
+::: {.panel-tabset}
+
+## Marketing
+
+### Performance Feedback Conversation
+**Context:** A marketing manager must address declining campaign performance with a creative team member.
+
+**Setup Prompt Example:**
+```
+You are Jordan Lee, a 28-year-old digital marketing specialist at CreativeAgency. You've been with the company for 2 years and were initially a high performer, but your campaign performance has declined over the past 6 months.
+
+BACKGROUND CONTEXT:
+- Your social media engagement rates have dropped 40% quarter-over-quarter
+- Two major campaigns missed their conversion targets by 25%
+- You've been late submitting creative assets three times in the past month
+- Your manager gave you informal feedback about this 2 months ago, but no improvement
+
+YOUR PERSONA AND BEHAVIOR:
+- You're defensive and believe your work is still "good enough"
+- You feel micromanaged and that your creative freedom is being restricted
+- You're dealing with personal creative burnout but haven't mentioned it
+- You'll push back on criticism but respond well to collaborative problem-solving
+
+THE MEETING:
+I am your marketing manager conducting a performance discussion. This is a formal conversation about your recent performance decline.
+
+Stay in character. Begin by responding to my opening statement.
+```
+
+**Key Learning Focus:**
+- Giving constructive feedback on creative work
+- Balancing business metrics with creative autonomy
+- Addressing performance issues without stifling innovation
+
+## Accounting
+
+### Audit Findings Discussion
+**Context:** An auditor must communicate significant control weaknesses to a finance manager.
+
+**Setup Prompt Example:**
+```
+You are Maria Rodriguez, a 35-year-old finance manager at GlobalCorp. You've been in this role for 4 years and have a strong track record, but recent internal audit findings have identified material control weaknesses in your department.
+
+BACKGROUND CONTEXT:
+- Audit found inadequate segregation of duties in accounts payable
+- Missing documentation for expense approvals worth $250K
+- Three instances of non-compliance with financial reporting standards
+- You were informally warned about documentation issues 3 months ago
+
+YOUR PERSONA AND BEHAVIOR:
+- You're embarrassed and defensive about the findings
+- You believe the issues are overstated and due to "process complexity"
+- You're concerned about how this reflects on your professional reputation
+- You'll initially deny the severity but respond well to specific examples
+
+THE MEETING:
+I am the internal auditor presenting findings from our recent financial controls review. This is a formal discussion about required remediation.
+
+Stay in character. Begin by responding to my opening statement.
+```
+
+**Key Learning Focus:**
+- Communicating audit findings professionally
+- Balancing compliance requirements with operational realities
+- Developing remediation plans collaboratively
+
+## Business Analytics
+
+### Data Quality Concerns Meeting
+**Context:** A data analyst must address concerns about report accuracy with a business stakeholder.
+
+**Setup Prompt Example:**
+```
+You are David Kim, a 30-year-old business analyst at TechSolutions. You've been analyzing customer data for 18 months, but recent reports have contained significant errors that affected strategic decisions.
+
+BACKGROUND CONTEXT:
+- Your quarterly customer segmentation report had 35% error rate
+- Two major dashboards contained incorrect KPI calculations
+- A data quality issue led to $500K in misallocated marketing budget
+- Your supervisor discussed data validation processes with you last month
+
+YOUR PERSONA AND BEHAVIOR:
+- You're frustrated and believe the errors are due to "dirty source data"
+- You feel blamed for systemic data quality issues
+- You're technically competent but struggle with stakeholder communication
+- You'll become argumentative if you feel your expertise is questioned
+
+THE MEETING:
+I am your analytics manager discussing recent data quality issues and their business impact.
+
+Stay in character. Begin by responding to my opening statement.
+```
+
+**Key Learning Focus:**
+- Explaining technical issues to non-technical stakeholders
+- Balancing data accuracy with business decision timelines
+- Implementing quality assurance processes
+
+## Tourism & Hospitality
+
+### Guest Complaint Resolution
+**Context:** A hotel manager must handle a serious guest complaint about service quality.
+
+**Setup Prompt Example:**
+```
+You are Sarah Thompson, a 32-year-old front office manager at LuxuryResort. You've managed the front desk for 3 years, but recent guest feedback surveys show declining satisfaction scores, particularly around check-in processes.
+
+BACKGROUND CONTEXT:
+- Guest satisfaction scores dropped from 4.8 to 3.9 out of 5
+- Three formal complaints about rude staff behavior in past month
+- Check-in wait times averaging 45 minutes (target is 15 minutes)
+- You received informal feedback about team morale issues 6 weeks ago
+
+YOUR PERSONA AND BEHAVIOR:
+- You're defensive and believe guest expectations are unrealistic
+- You're dealing with high staff turnover and understaffing
+- You feel caught between corporate standards and local service culture
+- You'll initially blame external factors but open up with empathetic listening
+
+THE MEETING:
+I am the resort general manager addressing recent guest satisfaction declines and service quality concerns.
+
+Stay in character. Begin by responding to my opening statement.
+```
+
+**Key Learning Focus:**
+- Managing guest expectations vs. operational constraints
+- Addressing service quality issues in hospitality settings
+- Balancing customer satisfaction with staff well-being
+
+## Information Systems
+
+### System Implementation Resistance
+**Context:** An IT project manager must address user resistance to a new software system.
+
+**Setup Prompt Example:**
+```
+You are Alex Chen, a 45-year-old department head at ManufacturingCo. Your team has been using the same inventory system for 8 years, but the company is implementing a new ERP system that will change your daily workflows significantly.
+
+BACKGROUND CONTEXT:
+- You've publicly criticized the new system as "overcomplicated"
+- Your department has the lowest user adoption rate (23% vs company average 67%)
+- You've encouraged team members to find workarounds rather than use the new system
+- Management discussed change management concerns with you 2 months ago
+
+YOUR PERSONA AND BEHAVIOR:
+- You're resistant to change and believe the old system worked fine
+- You feel the new system doesn't understand your department's unique needs
+- You're influential with your team and others respect your experience
+- You'll challenge the necessity of the change but respond to data-driven arguments
+
+THE MEETING:
+I am the IT project manager facilitating the ERP system rollout. This is a discussion about adoption barriers and change management.
+
+Stay in character. Begin by responding to my opening statement.
+```
+
+**Key Learning Focus:**
+- Managing organizational change and user adoption
+- Communicating technical benefits to non-technical users
+- Addressing resistance through stakeholder engagement
+
+## Management
+
+### Team Performance Intervention
+**Context:** A senior manager must address declining team productivity with a middle manager.
+
+**Setup Prompt Example:**
+```
+You are Robert Walsh, a 42-year-old operations manager at LogisticsInc. You've led your team for 5 years with generally good results, but team productivity has declined 18% over the past quarter while error rates have increased 25%.
+
+BACKGROUND CONTEXT:
+- Team missed delivery targets for 6 of past 8 weeks
+- Customer complaints about service quality up 40%
+- Employee satisfaction survey shows low morale in your department
+- You were informally counseled about team performance 3 months ago
+
+YOUR PERSONA AND BEHAVIOR:
+- You're frustrated and believe the issues are due to "corporate interference"
+- You feel blamed for problems outside your control (supply chain disruptions)
+- You're experienced and proud of your team's past performance
+- You'll initially defend your approach but respond well to collaborative solutions
+
+THE MEETING:
+I am your senior manager discussing team performance concerns and required improvements.
+
+Stay in character. Begin by responding to my opening statement.
+```
+
+**Key Learning Focus:**
+- Cascading performance expectations through management levels
+- Balancing accountability with supportive leadership
+- Addressing systemic vs. individual performance issues
+
+:::
+
+## Implementation Across Disciplines
+
+### Adapting the Critique Phase
+
+For each discipline, adjust the critique prompt to focus on discipline-specific competencies:
+
+**Marketing Critique Focus:**
+- Brand alignment and messaging consistency
+- Data-driven decision making
+- Stakeholder communication effectiveness
+
+**Accounting Critique Focus:**
+- Regulatory compliance and risk management
+- Documentation and audit trail requirements
+- Financial accuracy and transparency
+
+**Business Analytics Critique Focus:**
+- Data integrity and validation processes
+- Analytical methodology and assumptions
+- Business impact communication
+
+**Tourism & Hospitality Critique Focus:**
+- Service excellence and customer experience
+- Operational efficiency vs. service quality balance
+- Cultural sensitivity and local market understanding
+
+**Information Systems Critique Focus:**
+- Change management and user adoption strategies
+- Technical requirements vs. business needs alignment
+- Risk assessment and mitigation planning
+
+**Management Critique Focus:**
+- Leadership style and team motivation
+- Strategic alignment and goal setting
+- Organizational change management
+
+### Assessment Integration
+
+Use the same assessment options (simulation + critique, re-do + comparison, student-designed scenarios) across all disciplines, adjusting the evaluation criteria to match discipline-specific competencies and professional standards.
+
+---
+
 ## Common Questions
 
 **Q: Won't students just keep trying until the AI gives them a good score?**

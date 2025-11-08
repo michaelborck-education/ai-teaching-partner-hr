@@ -318,6 +318,300 @@ Include scoring, feedback, progress tracking.
 
 ---
 
+## Cross-Discipline Applications: Interactive Content Transformation
+
+The static-to-interactive transformation approach can be adapted for any business discipline. Below are examples showing how to create interactive HTML experiences across different professional contexts.
+
+::: {.panel-tabset}
+
+## Marketing
+
+### Campaign Strategy Simulation
+
+**Static Content Example:**
+- Marketing campaign case study with market analysis, target audience definition, and budget allocation decisions
+
+**Interactive Transformation:**
+```html
+<!-- Student inputs market research data -->
+<!-- Selects target segments with immediate feedback -->
+<!-- Makes budget allocation decisions -->
+<!-- Sees campaign performance projections -->
+<!-- Saves complete strategy document -->
+```
+
+**AI Prompt Example:**
+```
+Transform this marketing campaign case study into an interactive HTML simulation:
+
+[Paste campaign case study content]
+
+Create:
+1. Market analysis input section with validation
+2. Target audience selection with demographic breakdowns
+3. Budget allocation sliders with real-time totals
+4. Campaign performance calculator based on choices
+5. Save/print functionality for completed strategy
+
+Include marketing-specific terminology and realistic budget ranges.
+```
+
+**Key Interactive Elements:**
+- **Market sizing calculator** - students input data, get instant market potential estimates
+- **ROI projection tool** - budget decisions show projected returns
+- **Competitor analysis matrix** - drag-and-drop positioning
+- **Campaign timeline builder** - visual scheduling with dependencies
+
+## Accounting
+
+### Audit Planning Tool
+
+**Static Content Example:**
+- Audit engagement scenario with financial statement review and risk assessment requirements
+
+**Interactive Transformation:**
+```html
+<!-- Student reviews financial statements -->
+<!-- Identifies risk areas with guided prompts -->
+<!-- Selects audit procedures from dropdown -->
+<!-- Documents rationale for each choice -->
+<!-- Generates audit plan summary -->
+```
+
+**AI Prompt Example:**
+```
+Convert this audit planning scenario into an interactive HTML tool:
+
+[Paste audit case study]
+
+Features needed:
+1. Financial statement review interface with annotation tools
+2. Risk assessment checklist with scoring
+3. Audit procedure selection with justification fields
+4. Sample size calculator for testing
+5. Professional audit report template generation
+
+Include accounting standards references and realistic audit procedures.
+```
+
+**Key Interactive Elements:**
+- **Risk assessment matrix** - drag-and-drop risk rating system
+- **Materiality calculator** - quantitative thresholds with explanations
+- **Sampling tool** - statistical sample size determination
+- **Control testing workflow** - step-by-step procedure documentation
+
+## Business Analytics
+
+### Data Visualization Dashboard Builder
+
+**Static Content Example:**
+- Business dataset with analysis requirements and visualization guidelines
+
+**Interactive Transformation:**
+```html
+<!-- Student explores dataset variables -->
+<!-- Selects appropriate chart types -->
+<!-- Configures visualization parameters -->
+<!-- Interprets results with guided prompts -->
+<!-- Exports analysis report -->
+```
+
+**AI Prompt Example:**
+```
+Create an interactive HTML data analysis tool from this dataset:
+
+[Paste dataset description and analysis requirements]
+
+Build:
+1. Data exploration interface with filtering and sorting
+2. Chart type recommendation system
+3. Visualization parameter controls (colors, scales, labels)
+4. Statistical summary generator
+5. Interpretation guidance with common pitfalls
+
+Include business analytics terminology and best practices.
+```
+
+**Key Interactive Elements:**
+- **Variable relationship explorer** - correlation matrix with explanations
+- **Chart recommendation engine** - suggests optimal visualizations
+- **Statistical test selector** - guides appropriate analysis methods
+- **Insight documentation tool** - structures findings and implications
+
+## Tourism & Hospitality
+
+### Service Recovery Scenario
+
+**Static Content Example:**
+- Customer complaint case study with service failure analysis and recovery strategy development
+
+**Interactive Transformation:**
+```html
+<!-- Student analyzes complaint details -->
+<!-- Identifies service failure type -->
+<!-- Selects recovery strategy options -->
+<!-- Calculates compensation recommendations -->
+<!-- Documents customer communication plan -->
+```
+
+**AI Prompt Example:**
+```
+Transform this hospitality service failure scenario into an interactive recovery simulation:
+
+[Paste complaint case study]
+
+Create:
+1. Complaint analysis framework with categorization
+2. Service recovery strategy selector with consequences
+3. Compensation calculator with industry benchmarks
+4. Communication planning tool for guest outreach
+5. Follow-up tracking system
+
+Include hospitality-specific service standards and recovery best practices.
+```
+
+**Key Interactive Elements:**
+- **Service failure analyzer** - categorizes complaint types with recovery implications
+- **Compensation matrix** - industry-standard recovery offers
+- **Communication composer** - templates for different guest situations
+- **Satisfaction prediction tool** - estimates recovery success probability
+
+## Information Systems
+
+### System Requirements Workshop
+
+**Static Content Example:**
+- Business case for new IT system with stakeholder requirements and technical considerations
+
+**Interactive Transformation:**
+```html
+<!-- Student gathers stakeholder requirements -->
+<!-- Prioritizes features with MoSCoW method -->
+<!-- Identifies technical constraints -->
+<!-- Creates implementation roadmap -->
+<!-- Generates requirements specification -->
+```
+
+**AI Prompt Example:**
+```
+Build an interactive HTML requirements gathering workshop from this system case:
+
+[Paste IT system case study]
+
+Develop:
+1. Stakeholder identification and interviewing interface
+2. Requirements prioritization tool (MoSCoW method)
+3. Technical feasibility assessment checklist
+4. Implementation timeline builder with dependencies
+5. Requirements traceability matrix generator
+
+Include IT project management terminology and system development best practices.
+```
+
+**Key Interactive Elements:**
+- **Requirements traceability matrix** - links business needs to technical solutions
+- **Technical feasibility analyzer** - assesses implementation complexity
+- **Stakeholder influence mapping** - identifies key decision-makers
+- **Project timeline visualizer** - Gantt chart builder with critical paths
+
+## Management
+
+### Organizational Change Simulation
+
+**Static Content Example:**
+- Change management case study with stakeholder analysis and implementation planning
+
+**Interactive Transformation:**
+```html
+<!-- Student assesses organizational readiness -->
+<!-- Maps stakeholder positions and influence -->
+<!-- Develops change communication plan -->
+<!-- Creates resistance management strategies -->
+<!-- Tracks implementation progress -->
+```
+
+**AI Prompt Example:**
+```
+Create an interactive HTML change management simulation from this organizational case:
+
+[Paste change management scenario]
+
+Build:
+1. Organizational readiness assessment tool
+2. Stakeholder mapping interface with influence/interest matrix
+3. Communication planning wizard
+4. Resistance identification and mitigation selector
+5. Change progress tracking dashboard
+
+Include organizational development theory and change management frameworks.
+```
+
+**Key Interactive Elements:**
+- **Stakeholder influence mapper** - visual positioning of key players
+- **Change readiness calculator** - assesses organizational capacity
+- **Communication campaign builder** - multi-channel messaging planner
+- **Resistance pattern analyzer** - identifies common barriers and solutions
+
+:::
+
+## Adapting Interactive Transformations Across Disciplines
+
+### Discipline-Specific Design Considerations
+
+**Creative Fields (Marketing, Hospitality):**
+- Emphasize visual design and user experience
+- Include multimedia elements (images, videos)
+- Focus on subjective decision-making with guided feedback
+- Incorporate brand/customer experience elements
+
+**Technical Fields (Accounting, IT, Analytics):**
+- Stress accuracy and compliance requirements
+- Include validation and error-checking features
+- Focus on methodological rigor and documentation
+- Incorporate industry standards and professional frameworks
+
+**Behavioral Fields (Management, Hospitality):**
+- Emphasize stakeholder dynamics and relationships
+- Include emotional intelligence and communication elements
+- Focus on contextual decision-making
+- Incorporate cultural and situational factors
+
+### Technical Implementation Guidelines
+
+**HTML Structure Standards:**
+- Maintain single-file approach for LMS compatibility
+- Ensure mobile responsiveness across all disciplines
+- Include accessibility features (alt text, keyboard navigation)
+- Embed all CSS and JavaScript for portability
+
+**Content Validation:**
+- Test interactive elements with discipline-specific scenarios
+- Verify calculations and logic for technical accuracy
+- Ensure professional terminology and realistic constraints
+- Validate against industry standards and best practices
+
+**Assessment Integration:**
+- Include progress tracking and completion indicators
+- Build in self-assessment features with discipline-specific criteria
+- Enable data export for instructor review
+- Support both formative (practice) and summative (graded) use
+
+### Scaling and Maintenance
+
+**Template Development:**
+- Create discipline-specific HTML templates for common activities
+- Develop modular components that can be reused across courses
+- Establish design standards for professional appearance
+- Build prompt libraries for different interaction types
+
+**Quality Assurance:**
+- Regular testing across different browsers and devices
+- Accessibility audits for compliance with university standards
+- Content updates to reflect current industry practices
+- Student feedback integration for continuous improvement
+
+---
+
 ## 🚀 Next Steps
 
 1. **Choose one activity** to transform

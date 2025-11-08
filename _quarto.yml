@@ -2,8 +2,8 @@ project:
   type: book
   
 book:
-  title: "AI as a Teaching Partner: Practical Applications for Human Resource Education"
-  author: "HR Education Team"
+  title: "AI as a Teaching Partner: Practical Applications for Multidisciplinary Business Education"
+  author: "Business Education Team"
   cover-image: cover.png
   chapters:
     - index.qmd
@@ -39,4 +39,4 @@ format:
     number-sections: true
     
 metadata:
-  description: "A practical guide for HR educators on integrating AI into teaching"
+  description: "A practical guide for educators on integrating AI into teaching, featuring examples from multiple business disciplines"

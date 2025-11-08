@@ -610,6 +610,507 @@ Here's how to integrate AI into a postgraduate research methods unit:
 
 ---
 
+## Cross-Discipline Applications: Research Assistant Adaptations
+
+The research assistant applications can be adapted for postgraduate research across different business disciplines. Below are examples showing how to implement these approaches in various professional contexts.
+
+::: {.panel-tabset}
+
+## Marketing
+
+### Literature Review Applications
+
+**Discipline-Specific Considerations:**
+- Marketing literature spans consumer behavior, branding, digital marketing, and market research
+- Need to integrate academic research with industry reports and practitioner insights
+- Emphasis on emerging trends and technology-driven changes
+
+**Appropriate AI Use Examples:**
+```
+PROMPT: Marketing Literature Exploration
+
+I'm researching consumer responses to AI-powered personalization in e-commerce. Help me identify:
+1. Key theoretical frameworks (e.g., Technology Acceptance Model, Privacy Calculus Theory)
+2. Seminal papers on personalization ethics and effectiveness
+3. Industry reports from Gartner/McKinsey on AI marketing adoption
+4. Emerging debates about privacy vs. personalization benefits
+5. Research gaps in cross-cultural personalization studies
+
+Do not write a literature review—give me a research landscape map.
+```
+
+**Critical AI Evaluation:**
+- AI may overemphasize recent digital marketing studies while missing foundational consumer behavior theory
+- Industry reports cited by AI should be verified for current validity
+- Cross-cultural considerations often underrepresented in AI-generated literature maps
+
+### Research Question Development
+
+**Marketing-Specific Challenges:**
+- Balancing theoretical rigor with practical marketing implications
+- Ensuring research questions address real industry problems
+- Incorporating measurable outcomes and ROI considerations
+
+**AI-Assisted Refinement:**
+```
+PROMPT: Marketing Research Question Refinement
+
+My broad topic is influencer marketing effectiveness. My draft question: "How effective are micro-influencers compared to macro-influencers?"
+
+Help me refine by:
+1. Clarifying what "effectiveness" means (engagement, sales, brand awareness?)
+2. Identifying industry context (which platforms, product categories?)
+3. Suggesting how to make this more theoretically grounded
+4. Considering practical constraints (data availability, measurement challenges)
+
+Do not write my research question—help me develop it myself.
+```
+
+### Data Analysis Applications
+
+**Marketing Data Types:**
+- Social media analytics, campaign performance metrics
+- Consumer surveys, focus group transcripts
+- Eye-tracking studies, A/B test results
+- Customer journey mapping data
+
+**Appropriate AI Use:**
+```
+PROMPT: Marketing Data Pattern Recognition
+
+I collected survey responses from 200 consumers about their mobile shopping experiences. My research question focuses on friction points in the purchase journey.
+
+Suggest potential themes emerging from this data sample. This is preliminary—I will do my own thematic analysis, but want a starting point.
+
+[Data sample provided]
+```
+
+**Critical Oversight:**
+- AI may miss cultural nuances in consumer behavior interpretation
+- Marketing metrics often have industry-specific contextual meanings
+- Qualitative data requires sensitivity to brand and product context
+
+## Accounting
+
+### Literature Review Applications
+
+**Discipline-Specific Considerations:**
+- Accounting literature includes technical standards, regulatory requirements, and professional practice
+- Need to integrate IFRS/GAAP standards with academic research
+- Emphasis on compliance, ethics, and professional judgment
+
+**Appropriate AI Use Examples:**
+```
+PROMPT: Accounting Literature Exploration
+
+I'm researching the impact of IFRS 15 revenue recognition on financial reporting quality. Help me identify:
+1. Key accounting standards and regulatory guidance
+2. Academic studies on IFRS 15 implementation challenges
+3. Professional body guidance (e.g., ICAEW, CPA Australia)
+4. Industry-specific applications (software, construction, manufacturing)
+5. Research gaps in emerging revenue models (SaaS, crypto assets)
+
+Do not write a literature review—give me a research landscape map.
+```
+
+**Critical AI Evaluation:**
+- AI may not distinguish between mandatory standards and interpretive guidance
+- Professional body publications require careful verification
+- Industry-specific applications often need deeper technical understanding
+
+### Research Question Development
+
+**Accounting-Specific Challenges:**
+- Ensuring research questions address compliance and regulatory implications
+- Balancing technical accounting issues with broader business impacts
+- Incorporating professional judgment and ethical considerations
+
+**AI-Assisted Refinement:**
+```
+PROMPT: Accounting Research Question Refinement
+
+My broad topic is fair value measurement challenges. My draft question: "How do auditors assess fair value measurements?"
+
+Help me refine by:
+1. Clarifying what aspects of fair value (inputs, methodologies, disclosures?)
+2. Identifying specific accounting standards involved
+3. Considering professional judgment vs. technical compliance
+4. Addressing practical audit challenges and regulatory expectations
+
+Do not write my research question—help me develop it myself.
+```
+
+### Data Analysis Applications
+
+**Accounting Data Types:**
+- Financial statement data, audit workpapers
+- Regulatory filings, compliance testing results
+- Professional judgment documentation
+- Ethical dilemma case studies
+
+**Appropriate AI Use:**
+```
+PROMPT: Accounting Data Pattern Recognition
+
+I analyzed 50 audit files for fair value measurement disclosures. My research question examines auditor judgment patterns.
+
+Suggest potential themes emerging from this documentation sample. This is preliminary—I will do my own thematic analysis.
+
+[Documentation sample provided]
+```
+
+**Critical Oversight:**
+- Accounting technical terms require precise interpretation
+- Regulatory compliance context is essential for proper analysis
+- Professional judgment documentation needs careful ethical consideration
+
+## Business Analytics
+
+### Literature Review Applications
+
+**Discipline-Specific Considerations:**
+- Analytics literature spans statistics, data science, machine learning, and business intelligence
+- Need to integrate technical methodologies with business applications
+- Emphasis on emerging technologies and predictive modeling
+
+**Appropriate AI Use Examples:**
+```
+PROMPT: Analytics Literature Exploration
+
+I'm researching predictive analytics for customer churn in subscription services. Help me identify:
+1. Key statistical and machine learning methodologies
+2. Business analytics frameworks and best practices
+3. Industry applications (telecom, SaaS, media streaming)
+4. Technical challenges (data quality, model interpretability)
+5. Research gaps in real-time predictive analytics
+
+Do not write a literature review—give me a research landscape map.
+```
+
+**Critical AI Evaluation:**
+- AI may overemphasize popular methodologies while missing domain-specific approaches
+- Technical literature requires verification of mathematical accuracy
+- Business context often needs deeper integration with technical methods
+
+### Research Question Development
+
+**Analytics-Specific Challenges:**
+- Balancing technical feasibility with business value
+- Ensuring research questions address practical implementation constraints
+- Incorporating data quality and model validation considerations
+
+**AI-Assisted Refinement:**
+```
+PROMPT: Analytics Research Question Refinement
+
+My broad topic is predictive modeling for supply chain optimization. My draft question: "How accurate are machine learning models for demand forecasting?"
+
+Help me refine by:
+1. Clarifying what "accuracy" means (metrics, business impact?)
+2. Identifying specific modeling approaches and data requirements
+3. Considering implementation challenges and data availability
+4. Addressing business value vs. technical performance
+
+Do not write my research question—help me develop it myself.
+```
+
+### Data Analysis Applications
+
+**Analytics Data Types:**
+- Large datasets, time series data, customer behavioral data
+- Model performance metrics, validation results
+- Algorithm comparison studies, implementation case studies
+
+**Appropriate AI Use:**
+```
+PROMPT: Analytics Data Pattern Recognition
+
+I collected performance metrics from 20 predictive models across different business contexts. My research question examines factors affecting model accuracy.
+
+Suggest potential themes emerging from this metrics analysis. This is preliminary—I will do my own thematic analysis.
+
+[Metrics sample provided]
+```
+
+**Critical Oversight:**
+- Statistical and technical accuracy requires expert verification
+- Business context interpretation needs domain knowledge
+- Model performance metrics require careful methodological understanding
+
+## Tourism & Hospitality
+
+### Literature Review Applications
+
+**Discipline-Specific Considerations:**
+- Hospitality literature includes service management, customer experience, and tourism economics
+- Need to integrate academic research with industry hospitality standards
+- Emphasis on cultural contexts and service quality frameworks
+
+**Appropriate AI Use Examples:**
+```
+PROMPT: Hospitality Literature Exploration
+
+I'm researching service recovery strategies in luxury hotels. Help me identify:
+1. Key service quality frameworks (SERVQUAL, service profit chain)
+2. Customer complaint management theories and models
+3. Industry best practices and case studies
+4. Cultural considerations in service recovery
+5. Research gaps in technology-mediated service recovery
+
+Do not write a literature review—give me a research landscape map.
+```
+
+**Critical AI Evaluation:**
+- AI may not adequately address cultural and contextual service differences
+- Hospitality industry practices require verification against current standards
+- Service quality frameworks need careful application to specific contexts
+
+### Research Question Development
+
+**Hospitality-Specific Challenges:**
+- Incorporating cultural and contextual factors in service research
+- Balancing customer experience with operational feasibility
+- Addressing seasonal and external environmental factors
+
+**AI-Assisted Refinement:**
+```
+PROMPT: Hospitality Research Question Refinement
+
+My broad topic is customer satisfaction in resort hotels. My draft question: "What factors influence customer satisfaction in beach resorts?"
+
+Help me refine by:
+1. Clarifying satisfaction dimensions (service quality, amenities, value?)
+2. Identifying specific resort contexts and customer segments
+3. Considering cultural and seasonal influences
+4. Addressing measurement challenges and practical implications
+
+Do not write my research question—help me develop it myself.
+```
+
+### Data Analysis Applications
+
+**Hospitality Data Types:**
+- Customer satisfaction surveys, review data
+- Service encounter observations, complaint logs
+- Booking and occupancy data, revenue analytics
+- Cultural preference studies, seasonal trend analysis
+
+**Appropriate AI Use:**
+```
+PROMPT: Hospitality Data Pattern Recognition
+
+I analyzed 300 customer reviews from a luxury resort. My research question examines service quality dimensions affecting satisfaction.
+
+Suggest potential themes emerging from this review sample. This is preliminary—I will do my own thematic analysis.
+
+[Review sample provided]
+```
+
+**Critical Oversight:**
+- Cultural context interpretation requires sensitivity and expertise
+- Service quality dimensions vary by hospitality segment
+- Customer feedback analysis needs careful sentiment consideration
+
+## Information Systems
+
+### Literature Review Applications
+
+**Discipline-Specific Considerations:**
+- IS literature includes technology adoption, system implementation, and digital transformation
+- Need to integrate technical research with organizational change theory
+- Emphasis on user acceptance, security, and implementation success factors
+
+**Appropriate AI Use Examples:**
+```
+PROMPT: IS Literature Exploration
+
+I'm researching user resistance to enterprise system implementations. Help me identify:
+1. Key technology acceptance theories (TAM, UTAUT, TOE framework)
+2. Implementation success factors and critical failure points
+3. Change management approaches for technology adoption
+4. Security and privacy considerations in system implementation
+5. Research gaps in AI-assisted system implementations
+
+Do not write a literature review—give me a research landscape map.
+```
+
+**Critical AI Evaluation:**
+- AI may not adequately distinguish between different theoretical frameworks
+- Technical implementation details require careful verification
+- Organizational change aspects often need deeper theoretical integration
+
+### Research Question Development
+
+**IS-Specific Challenges:**
+- Balancing technical and organizational perspectives
+- Incorporating implementation timelines and resource constraints
+- Addressing security, privacy, and ethical technology considerations
+
+**AI-Assisted Refinement:**
+```
+PROMPT: IS Research Question Refinement
+
+My broad topic is digital transformation in traditional industries. My draft question: "How do organizations successfully implement digital transformation?"
+
+Help me refine by:
+1. Clarifying what "successful" means (metrics, stakeholder perspectives?)
+2. Identifying specific technologies and industry contexts
+3. Considering organizational readiness and change management
+4. Addressing implementation challenges and risk factors
+
+Do not write my research question—help me develop it myself.
+```
+
+### Data Analysis Applications
+
+**IS Data Types:**
+- System usage logs, implementation project data
+- User acceptance surveys, resistance interviews
+- Security incident reports, adoption metrics
+- Technology implementation case studies
+
+**Appropriate AI Use:**
+```
+PROMPT: IS Data Pattern Recognition
+
+I collected interview data from 15 IT implementation projects. My research question examines factors affecting user adoption.
+
+Suggest potential themes emerging from this interview sample. This is preliminary—I will do my own thematic analysis.
+
+[Interview sample provided]
+```
+
+**Critical Oversight:**
+- Technical terminology requires precise interpretation
+- Implementation context varies significantly by technology type
+- User adoption factors need careful psychological and organizational analysis
+
+## Management
+
+### Literature Review Applications
+
+**Discipline-Specific Considerations:**
+- Management literature spans organizational behavior, strategy, leadership, and change management
+- Need to integrate theoretical frameworks with practical management applications
+- Emphasis on contextual factors and organizational dynamics
+
+**Appropriate AI Use Examples:**
+```
+PROMPT: Management Literature Exploration
+
+I'm researching leadership development in digital transformation. Help me identify:
+1. Key leadership theories and models (transformational, situational, authentic)
+2. Organizational change frameworks (Kotter, Lewin, ADKAR)
+3. Digital transformation management studies and case analyses
+4. Contextual factors affecting leadership effectiveness
+5. Research gaps in leadership development for digital contexts
+
+Do not write a literature review—give me a research landscape map.
+```
+
+**Critical AI Evaluation:**
+- AI may oversimplify complex theoretical frameworks
+- Contextual and situational factors often underrepresented
+- Practical management applications require careful verification
+
+### Research Question Development
+
+**Management-Specific Challenges:**
+- Incorporating organizational context and situational factors
+- Balancing theoretical frameworks with practical management implications
+- Addressing leadership and organizational behavior complexities
+
+**AI-Assisted Refinement:**
+```
+PROMPT: Management Research Question Refinement
+
+My broad topic is organizational culture change. My draft question: "How do leaders change organizational culture?"
+
+Help me refine by:
+1. Clarifying what aspects of culture (values, behaviors, artifacts?)
+2. Identifying specific change contexts and leadership approaches
+3. Considering organizational size, industry, and cultural factors
+4. Addressing measurement challenges and success criteria
+
+Do not write my research question—help me develop it myself.
+```
+
+### Data Analysis Applications
+
+**Management Data Types:**
+- Organizational survey data, leadership assessment results
+- Change management project documentation
+- Performance metrics, employee engagement data
+- Case study analyses and intervention evaluations
+
+**Appropriate AI Use:**
+```
+PROMPT: Management Data Pattern Recognition
+
+I analyzed survey responses from 200 employees about leadership effectiveness. My research question examines leadership behaviors affecting engagement.
+
+Suggest potential themes emerging from this survey sample. This is preliminary—I will do my own thematic analysis.
+
+[Survey sample provided]
+```
+
+**Critical Oversight:**
+- Organizational context interpretation requires deep understanding
+- Leadership and management concepts have nuanced meanings
+- Survey data analysis needs careful psychometric consideration
+
+:::
+
+## Adapting Research Assistant Principles Across Disciplines
+
+### Common Research Integrity Standards
+
+**Verification Requirements:**
+Regardless of discipline, students must verify:
+- All citations exist and accurately represent source content
+- Theoretical claims are correctly applied to the research context
+- Technical or methodological assertions are accurate
+- Industry or professional standards are current and correctly interpreted
+
+**Critical Evaluation Framework:**
+- **Technical Accuracy:** Discipline-specific terminology and concepts correctly understood
+- **Contextual Appropriateness:** Research situated in relevant professional/industry context
+- **Methodological Rigor:** Research design appropriate for the discipline's standards
+- **Practical Relevance:** Findings connected to real-world professional applications
+
+### Discipline-Specific AI Literacy
+
+**Technical Disciplines (Accounting, IT, Analytics):**
+- Emphasize verification of technical claims and calculations
+- Teach identification of AI hallucinations in technical content
+- Focus on professional standards and regulatory compliance
+
+**Behavioral Disciplines (Marketing, Hospitality, Management):**
+- Emphasize contextual interpretation and cultural sensitivity
+- Teach evaluation of AI's understanding of human behavior
+- Focus on practical application and stakeholder implications
+
+**Creative Disciplines (Marketing, Management):**
+- Emphasize subjective judgment and professional expertise
+- Teach critical evaluation of AI recommendations in creative contexts
+- Focus on integration of theoretical and practical knowledge
+
+### Postgraduate Assessment Design
+
+**Research Proposal Requirements:**
+- Discipline-specific literature engagement demonstration
+- Appropriate methodology for the field of study
+- Clear articulation of theoretical and practical contributions
+- Critical reflection on AI assistance and limitations
+
+**Thesis Supervision Guidelines:**
+- Explicit discussion of appropriate AI use in research supervision
+- Regular verification of student engagement with primary sources
+- Assessment of critical thinking about AI-generated insights
+- Documentation of AI assistance in research process
+
+---
+
 ## Key Principle for Postgraduate AI Integration
 
 **The standard must be higher, not lower.**

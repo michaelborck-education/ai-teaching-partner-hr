@@ -443,6 +443,354 @@ This can reduce your workload while maintaining quality control.
 
 ---
 
+## Cross-Discipline Applications: Process-Based Assessment
+
+The three process-based assessment models can be adapted for any business discipline. Below are examples showing how to implement these models across different professional contexts.
+
+::: {.panel-tabset}
+
+## Marketing
+
+### Model 1: Simulated Client Consultation and Process Audit
+
+**Context:** Students conduct a simulated client consultation for a marketing campaign, then audit their consultative process.
+
+**Scenario Example:**
+> You are the account manager meeting with Elena Rodriguez, CMO of GreenLife Brands. She's concerned about declining campaign performance and wants to discuss strategic options. You need to conduct a professional consultation to understand her concerns and demonstrate consultative marketing methodology.
+
+**Process Audit Focus:**
+- Client needs assessment process
+- Strategic questioning techniques
+- Presentation of marketing options
+- Handling client objections professionally
+
+**Assessment Criteria:**
+- Did they establish credibility and build rapport?
+- Did they ask insightful questions about business objectives and constraints?
+- Did they demonstrate understanding of marketing metrics and KPIs?
+- Did they present options with clear pros/cons and implementation steps?
+
+### Model 2: Evidence-Based Campaign Strategy Plan
+
+**Context:** Students analyze marketing performance data and develop strategic recommendations, critiquing AI-generated options.
+
+**Assignment Structure:**
+1. **Data Analysis:** Students use AI to analyze campaign performance data (engagement rates, conversion metrics, customer segments)
+2. **Strategy Generation:** AI generates three distinct campaign strategy options
+3. **Critical Evaluation:** Students critique each option and make a justified recommendation
+
+**Key Assessment Focus:**
+- Application of consumer behavior theory to data insights
+- Critical evaluation of AI marketing recommendations
+- Integration of brand strategy and market positioning
+- Justification of strategic choices with marketing theory
+
+### Model 3: Competency-Based Creative Portfolio Review
+
+**Context:** Students demonstrate the end-to-end process of evaluating creative work and providing constructive feedback.
+
+**Assignment Structure:**
+1. **Creative Brief Development:** Use AI to generate creative briefs, then critically revise
+2. **Feedback Framework Design:** Create structured feedback criteria for creative work
+3. **Critical Evaluation:** Review AI-scored creative samples and override assessments
+
+**Assessment Criteria:**
+- Understanding of creative process and constraints
+- Ability to provide constructive feedback on subjective work
+- Application of marketing psychology to creative evaluation
+- Ethical considerations in creative feedback delivery
+
+## Accounting
+
+### Model 1: Simulated Audit Consultation and Process Audit
+
+**Context:** Students conduct a simulated consultation with a client about audit findings, then audit their professional communication process.
+
+**Scenario Example:**
+> You are the audit senior meeting with Michael Chen, CFO of TechManufacturing. You need to discuss preliminary audit findings about revenue recognition issues. Demonstrate professional audit communication methodology.
+
+**Process Audit Focus:**
+- Clear explanation of technical audit findings
+- Client education on accounting implications
+- Professional handling of sensitive financial issues
+- Documentation of agreements and action items
+
+**Assessment Criteria:**
+- Did they explain complex accounting concepts clearly?
+- Did they maintain professional skepticism while building trust?
+- Did they address both technical and business implications?
+- Did they document commitments and follow-up requirements?
+
+### Model 2: Evidence-Based Financial Control Recommendations
+
+**Context:** Students analyze financial control weaknesses and develop remediation strategies, critiquing AI-generated options.
+
+**Assignment Structure:**
+1. **Control Analysis:** Students use AI to analyze control deficiencies in financial processes
+2. **Remediation Options:** AI generates three distinct control improvement strategies
+3. **Critical Evaluation:** Students evaluate options against regulatory requirements and business needs
+
+**Key Assessment Focus:**
+- Application of risk assessment frameworks
+- Critical evaluation of AI compliance recommendations
+- Integration of business operations with control requirements
+- Justification of control design choices with professional standards
+
+### Model 3: Competency-Based Audit Planning Portfolio
+
+**Context:** Students demonstrate the end-to-end process of audit planning and risk assessment.
+
+**Assignment Structure:**
+1. **Risk Assessment Framework:** Use AI to generate audit risk assessments, then critically revise
+2. **Audit Program Design:** Create audit procedures targeting identified risks
+3. **Critical Evaluation:** Review AI-evaluated risk scenarios and override assessments
+
+**Assessment Criteria:**
+- Understanding of audit risk and materiality concepts
+- Ability to design risk-based audit procedures
+- Application of professional skepticism to audit planning
+- Ethical considerations in audit scope decisions
+
+## Business Analytics
+
+### Model 1: Simulated Stakeholder Data Consultation and Process Audit
+
+**Context:** Students conduct a simulated consultation with business stakeholders about data insights, then audit their analytical communication process.
+
+**Scenario Example:**
+> You are the data analyst meeting with Sarah Thompson, Operations Director. You need to present findings from a customer churn analysis and discuss implementation of retention strategies. Demonstrate professional data communication methodology.
+
+**Process Audit Focus:**
+- Clear explanation of analytical findings and limitations
+- Translation of technical insights to business implications
+- Handling stakeholder questions about methodology
+- Documentation of agreed-upon actions and metrics
+
+**Assessment Criteria:**
+- Did they explain statistical concepts in business terms?
+- Did they address data quality and uncertainty appropriately?
+- Did they connect insights to actionable business decisions?
+- Did they establish credibility in analytical expertise?
+
+### Model 2: Evidence-Based Analytics Strategy Plan
+
+**Context:** Students analyze business data challenges and develop analytical solutions, critiquing AI-generated approaches.
+
+**Assignment Structure:**
+1. **Problem Analysis:** Students use AI to analyze complex business data scenarios
+2. **Solution Options:** AI generates three distinct analytical approaches
+3. **Critical Evaluation:** Students evaluate options against business requirements and technical feasibility
+
+**Key Assessment Focus:**
+- Application of statistical and analytical theory
+- Critical evaluation of AI-generated analytical solutions
+- Integration of business context with technical capabilities
+- Justification of analytical methodology choices
+
+### Model 3: Competency-Based Data Governance Portfolio
+
+**Context:** Students demonstrate the end-to-end process of data governance and quality management.
+
+**Assignment Structure:**
+1. **Data Quality Framework:** Use AI to generate data governance policies, then critically revise
+2. **Quality Assessment Design:** Create data quality evaluation criteria
+3. **Critical Evaluation:** Review AI-assessed data quality issues and override evaluations
+
+**Assessment Criteria:**
+- Understanding of data governance principles and frameworks
+- Ability to assess data quality and integrity issues
+- Application of ethical data practices and privacy considerations
+- Technical and business alignment in data management decisions
+
+## Tourism & Hospitality
+
+### Model 1: Simulated Guest Service Recovery and Process Audit
+
+**Context:** Students conduct a simulated service recovery conversation with a dissatisfied guest, then audit their customer service process.
+
+**Scenario Example:**
+> You are the guest services manager meeting with Maria Santos, who has filed a formal complaint about her recent stay. She experienced multiple service failures and is demanding compensation. Demonstrate professional service recovery methodology.
+
+**Process Audit Focus:**
+- Empathetic acknowledgment of guest concerns
+- Systematic problem resolution process
+- Appropriate compensation and recovery offers
+- Documentation of guest interaction and commitments
+
+**Assessment Criteria:**
+- Did they demonstrate genuine empathy and active listening?
+- Did they follow service recovery best practices?
+- Did they balance guest satisfaction with business policies?
+- Did they create positive resolution and future loyalty?
+
+### Model 2: Evidence-Based Service Improvement Plan
+
+**Context:** Students analyze guest satisfaction data and develop service enhancement strategies, critiquing AI-generated options.
+
+**Assignment Structure:**
+1. **Satisfaction Analysis:** Students use AI to analyze guest feedback and service performance data
+2. **Improvement Options:** AI generates three distinct service enhancement strategies
+3. **Critical Evaluation:** Students evaluate options against operational feasibility and guest expectations
+
+**Key Assessment Focus:**
+- Application of customer service theory and psychology
+- Critical evaluation of AI service improvement recommendations
+- Integration of operational constraints with service excellence
+- Justification of service strategy choices with hospitality standards
+
+### Model 3: Competency-Based Service Design Portfolio
+
+**Context:** Students demonstrate the end-to-end process of designing and evaluating service experiences.
+
+**Assignment Structure:**
+1. **Service Blueprint Development:** Use AI to generate service process designs, then critically revise
+2. **Quality Assessment Framework:** Create service quality evaluation criteria
+3. **Critical Evaluation:** Review AI-assessed service failure scenarios and override evaluations
+
+**Assessment Criteria:**
+- Understanding of service design principles and customer journey mapping
+- Ability to identify service quality gaps and improvement opportunities
+- Application of hospitality psychology and customer behavior
+- Ethical considerations in service delivery decisions
+
+## Information Systems
+
+### Model 1: Simulated System Implementation Consultation and Process Audit
+
+**Context:** Students conduct a simulated consultation with business users about a new IT system implementation, then audit their change management process.
+
+**Scenario Example:**
+> You are the IT project manager meeting with Dr. Amanda Foster, CIO. The new EHR system implementation is facing resistance from clinical staff. You need to discuss change management strategies and address user concerns. Demonstrate professional IT implementation methodology.
+
+**Process Audit Focus:**
+- Clear communication of technical requirements and constraints
+- Understanding and addressing user resistance
+- Development of change management strategies
+- Documentation of implementation agreements and timelines
+
+**Assessment Criteria:**
+- Did they translate technical concepts for non-technical stakeholders?
+- Did they demonstrate understanding of organizational change dynamics?
+- Did they balance technical requirements with business needs?
+- Did they create realistic implementation plans?
+
+### Model 2: Evidence-Based Technology Strategy Plan
+
+**Context:** Students analyze IT system requirements and develop implementation strategies, critiquing AI-generated options.
+
+**Assignment Structure:**
+1. **Requirements Analysis:** Students use AI to analyze business requirements and technical constraints
+2. **Implementation Options:** AI generates three distinct technology solution approaches
+3. **Critical Evaluation:** Students evaluate options against business objectives and technical feasibility
+
+**Key Assessment Focus:**
+- Application of systems analysis and design principles
+- Critical evaluation of AI-generated technology solutions
+- Integration of business requirements with technical capabilities
+- Justification of technology strategy choices with industry standards
+
+### Model 3: Competency-Based System Requirements Portfolio
+
+**Context:** Students demonstrate the end-to-end process of requirements gathering and system specification.
+
+**Assignment Structure:**
+1. **Requirements Specification:** Use AI to generate system requirements documents, then critically revise
+2. **Validation Framework:** Create requirements verification and validation criteria
+3. **Critical Evaluation:** Review AI-assessed requirements quality and override evaluations
+
+**Assessment Criteria:**
+- Understanding of requirements engineering principles and techniques
+- Ability to elicit and document stakeholder requirements accurately
+- Application of user-centered design and usability principles
+- Technical and business alignment in requirements decisions
+
+## Management
+
+### Model 1: Simulated Leadership Consultation and Process Audit
+
+**Context:** Students conduct a simulated consultation with a struggling manager, then audit their leadership coaching process.
+
+**Scenario Example:**
+> You are the leadership development consultant meeting with Robert Walsh, plant manager. His team's productivity has declined and morale is low. He wants advice on improving performance. Demonstrate professional leadership coaching methodology.
+
+**Process Audit Focus:**
+- Establishment of coaching relationship and trust
+- Diagnostic questioning to understand organizational dynamics
+- Development of leadership action plans
+- Documentation of coaching agreements and follow-up
+
+**Assessment Criteria:**
+- Did they demonstrate active listening and empathy?
+- Did they ask insightful questions about leadership challenges?
+- Did they provide evidence-based leadership advice?
+- Did they create actionable development plans?
+
+### Model 2: Evidence-Based Organizational Change Plan
+
+**Context:** Students analyze change management challenges and develop implementation strategies, critiquing AI-generated options.
+
+**Assignment Structure:**
+1. **Change Analysis:** Students use AI to analyze organizational change scenarios and stakeholder dynamics
+2. **Change Options:** AI generates three distinct change management approaches
+3. **Critical Evaluation:** Students evaluate options against organizational culture and change readiness
+
+**Key Assessment Focus:**
+- Application of organizational behavior and change management theory
+- Critical evaluation of AI-generated change strategies
+- Integration of human factors with business objectives
+- Justification of change approach choices with management theory
+
+### Model 3: Competency-Based Leadership Development Portfolio
+
+**Context:** Students demonstrate the end-to-end process of leadership assessment and development planning.
+
+**Assignment Structure:**
+1. **Competency Framework:** Use AI to generate leadership competency models, then critically revise
+2. **Assessment Design:** Create leadership evaluation and development criteria
+3. **Critical Evaluation:** Review AI-assessed leadership scenarios and override evaluations
+
+**Assessment Criteria:**
+- Understanding of leadership theory and competency frameworks
+- Ability to assess leadership strengths and development needs
+- Application of organizational psychology and motivation theory
+- Ethical considerations in leadership development decisions
+
+:::
+
+## Adapting Process Assessment Across Disciplines
+
+### Discipline-Specific Considerations
+
+**Creative Fields (Marketing, Design):**
+- Emphasize subjective judgment and iterative feedback processes
+- Include portfolio evidence of creative development cycles
+- Focus on stakeholder management and relationship building
+
+**Technical Fields (Accounting, IT, Analytics):**
+- Stress methodological rigor and compliance requirements
+- Include validation of technical assumptions and limitations
+- Focus on risk assessment and professional standards
+
+**Service Fields (Tourism, Hospitality, Management):**
+- Emphasize stakeholder psychology and relationship dynamics
+- Include cultural sensitivity and contextual factors
+- Focus on practical implementation and human factors
+
+### Implementation Framework
+
+**Assessment Design Principles:**
+- Maintain focus on process documentation and critical thinking
+- Adapt evaluation criteria to reflect discipline-specific competencies
+- Ensure AI tools support rather than replace professional judgment
+- Include opportunities for students to demonstrate expertise beyond AI capabilities
+
+**Student Development:**
+- Provide discipline-specific examples of excellent process work
+- Teach students how to evaluate AI outputs in their professional context
+- Encourage reflection on how process skills transfer across different scenarios
+
+---
+
 ## Your Action Step
 
 Before Chapter 8, choose one assessment in your current curriculum that could be redesigned using one of these models:

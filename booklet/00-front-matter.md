@@ -1,10 +1,10 @@
 # AI as a Teaching Partner
 
-## Practical Applications for Human Resource Education
+## Practical Applications for Business Education
 
 ---
 
-### A Guide for HR Lecturers
+### A Guide for Business Educators
 
 **Curtin University Edition**
 
@@ -16,16 +16,16 @@
 
 ## About This Booklet
 
-This booklet is designed for Human Resource Management lecturers who want to enhance their teaching with Artificial Intelligence but don't consider themselves "tech people."
+This booklet is designed for business educators who want to enhance their teaching with Artificial Intelligence but don't consider themselves "tech people."
 
 You won't need to code, install complex software, or understand how AI works technically. What you will learn is how to use simple, plain-language instructions (called "prompts") to create powerful learning experiences for your students.
 
 ### Who This Is For
 
-- HR lecturers at Curtin University teaching undergraduate or postgraduate students
+- Business educators at Curtin University teaching undergraduate or postgraduate students across disciplines like HR, Marketing, Accounting, Business Analytics, Tourism & Hospitality, Information Systems, and Management
 - Academics interested in innovative pedagogy for professional education
 - Unit coordinators exploring AI integration aligned with learning outcomes
-- Research supervisors supporting MCom students
+- Research supervisors supporting MCom and other postgraduate students
 - Anyone curious about practical, non-technical AI applications in education
 
 ### What You Won't Find Here
@@ -38,7 +38,7 @@ You won't need to code, install complex software, or understand how AI works tec
 
 ### What You Will Find Here
 
-- **Concrete examples**: Every chapter includes ready-to-use prompts and scenarios
+- **Concrete examples**: Every chapter includes ready-to-use prompts and scenarios, with discipline-specific adaptations for HR, Marketing, Accounting, Business Analytics, Tourism & Hospitality, Information Systems, and Management
 - **Practical guidance**: Step-by-step implementation for busy lecturers
 - **Real pedagogical value**: AI applications directly support existing learning outcomes
 - **Honest assessment**: What AI does well, what it doesn't, and what requires human judgment
@@ -91,12 +91,25 @@ You don't need to revolutionize your entire curriculum overnight. Start with one
 This booklet synthesizes ideas from multiple sources:
 
 - Prompt engineering techniques adapted for professional education contexts
-- Curtin University program information and learning outcomes
+- Curtin University program information and learning outcomes across business disciplines
 - Pedagogical frameworks from experiential learning, reflective practice, and authentic assessment
-- Professional HR practice standards and ethical guidelines
+- Professional practice standards and ethical guidelines across business fields
 - Emerging research on AI in higher education
 
-The goal is not to be cutting-edge or technically impressive. The goal is to help HR educators do their work better—prepare confident, competent, ethical professionals for complex workplaces.
+AI tools were used in the initial drafting of this document. All content has been reviewed and edited by the author for accuracy and pedagogical appropriateness.
+
+The goal is not to be cutting-edge or technically impressive. The goal is to help business educators do their work better—prepare confident, competent, ethical professionals for complex workplaces.
+
+---
+
+## Business Education Team
+
+This resource is developed by the Business Education Team, a collaborative group of educators committed to advancing AI-integrated pedagogy in business education.
+
+**Current Members:**
+- Michael Borck (Lead Author and Editor)
+
+If you contribute to this project, please contact the lead to be added to this list.
 
 ---
 
@@ -108,7 +121,7 @@ AI tools evolve quickly. Specific platform names (ChatGPT, Claude, etc.) and cap
 
 ### Context Matters
 
-This booklet was developed for Curtin University's HR programs. If you're at a different institution or teaching a different discipline, you'll need to adapt examples, learning outcomes, and institutional references. The frameworks are transferable; the specifics may not be.
+This booklet was developed for Curtin University's business programs, with HR serving as the primary example discipline. If you're at a different institution or teaching a different business discipline, you'll need to adapt examples, learning outcomes, and institutional references. The frameworks are transferable; the specifics may not be.
 
 ### This Is a Starting Point
 
@@ -127,7 +140,7 @@ As you implement ideas from this booklet, you may have questions, encounter chal
 - Consider forming a learning community around AI-enhanced teaching
 
 **For others:**
-- Adapt frameworks to your institutional context
+- Adapt frameworks to your institutional and disciplinary context
 - Share successes and failures with your teaching and learning community
 - Contribute to the growing body of practice around AI in education
 
