@@ -363,7 +363,7 @@ The transparency model can be adapted for any professional discipline. Below are
 ### Campaign Strategy Analysis Assignment
 
 **Assignment Context:**
-Students analyze a failed marketing campaign and recommend improvements, justifying their approach with marketing theory and consumer behavior principles.
+Students analyse a failed marketing campaign and recommend improvements, justifying their approach with marketing theory and consumer behaviour principles.
 
 **Sample Rubric Excerpt:**
 
@@ -390,7 +390,7 @@ Here is the student's draft:
 
 **Key Learning Focus:**
 - Critical evaluation of marketing strategies
-- Application of consumer behavior theory
+- Application of consumer behaviour theory
 - Development of measurable campaign objectives
 
 ## Accounting
@@ -433,7 +433,7 @@ Here is the student's draft:
 ### Data-Driven Decision Analysis Assignment
 
 **Assignment Context:**
-Students analyze a business dataset, identify insights, and recommend strategic actions, demonstrating statistical analysis and business acumen.
+Students analyse a business dataset, identify insights, and recommend strategic actions, demonstrating statistical analysis and business acumen.
 
 **Sample Rubric Excerpt:**
 
@@ -468,7 +468,7 @@ Here is the student's draft:
 ### Service Recovery Strategy Assignment
 
 **Assignment Context:**
-Students analyze a customer complaint scenario in a hospitality setting and develop a comprehensive service recovery plan, applying customer service theory and operational considerations.
+Students analyse a customer complaint scenario in a hospitality setting and develop a comprehensive service recovery plan, applying customer service theory and operational considerations.
 
 **Sample Rubric Excerpt:**
 
@@ -503,7 +503,7 @@ Here is the student's draft:
 ### System Requirements Analysis Assignment
 
 **Assignment Context:**
-Students analyze business requirements for a new IT system and develop functional specifications, demonstrating requirements gathering and technical specification skills.
+Students analyse business requirements for a new IT system and develop functional specifications, demonstrating requirements gathering and technical specification skills.
 
 **Sample Rubric Excerpt:**
 
@@ -535,16 +535,16 @@ Here is the student's draft:
 
 ## Management
 
-### Organizational Change Strategy Assignment
+### Organisational Change Strategy Assignment
 
 **Assignment Context:**
-Students analyze a change management scenario and develop an implementation plan, applying organizational behavior theory and change management frameworks.
+Students analyse a change management scenario and develop an implementation plan, applying organisational behaviour theory and change management frameworks.
 
 **Sample Rubric Excerpt:**
 
 | Criterion | Excellent (4) | Good (3) | Adequate (2) | Poor (1) |
 |---|---|---|---|---|
-| **Change Analysis** | Sophisticated analysis of organizational readiness, stakeholder impact, and change complexity | Good analysis of change factors and stakeholder considerations | Basic identification of change elements with limited depth | Poor or incomplete change analysis |
+| **Change Analysis** | Sophisticated analysis of organisational readiness, stakeholder impact, and change complexity | Good analysis of change factors and stakeholder considerations | Basic identification of change elements with limited depth | Poor or incomplete change analysis |
 | **Implementation Strategy** | Comprehensive change plan with clear phases, stakeholder engagement, and risk mitigation | Effective implementation strategy with good stakeholder consideration | Basic change approach with limited strategic elements | Inadequate or poorly structured change strategy |
 
 **AI Critique Prompt Example:**
@@ -552,10 +552,10 @@ Students analyze a change management scenario and develop an implementation plan
 You are a senior management lecturer evaluating a student's change management plan.
 
 ASSESSMENT CRITERIA:
-1. Change Analysis: Understanding of organizational dynamics and stakeholder impact
+1. Change Analysis: Understanding of organisational dynamics and stakeholder impact
 2. Implementation Strategy: Phased approach, stakeholder engagement, and communication planning
 3. Risk Management: Identification and mitigation of change resistance and implementation risks
-4. Success Metrics: Appropriate measurement of change effectiveness and organizational impact
+4. Success Metrics: Appropriate measurement of change effectiveness and organisational impact
 
 For each criterion, provide a score (1-4) with specific justification, quote student work, and give actionable improvement suggestions.
 
@@ -564,7 +564,7 @@ Here is the student's draft:
 ```
 
 **Key Learning Focus:**
-- Organizational change theory application
+- Organisational change theory application
 - Stakeholder engagement and communication
 - Change implementation planning and risk management
 

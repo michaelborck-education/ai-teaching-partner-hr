@@ -581,7 +581,7 @@ The backwards design approach can be adapted for any business discipline. Below 
 ### Unit: Digital Marketing Strategy and Analytics
 
 **Learning Outcomes (AI-Neutral):**
-1. Analyse market data and consumer behavior patterns
+1. Analyse market data and consumer behaviour patterns
 2. Develop data-driven marketing strategies and campaigns
 3. Evaluate campaign performance using analytics frameworks
 4. Communicate marketing insights to diverse stakeholders
@@ -594,7 +594,7 @@ The backwards design approach can be adapted for any business discipline. Below 
 - **Assessment 3 (35%):** Campaign Performance Analysis - Students evaluate real campaign data using AI for initial insights, then provide critical analysis and strategic recommendations
 
 **Weekly Progression Example:**
-- **Weeks 1-2:** Consumer behavior theory + AI prompt basics (market research scenarios)
+- **Weeks 1-2:** Consumer behaviour theory + AI prompt basics (market research scenarios)
 - **Weeks 3-4:** Analytics frameworks + AI data analysis practice (campaign metrics evaluation)
 - **Weeks 5-6:** Assessment 1 - Stakeholder consultation simulation
 - **Weeks 7-8:** Creative strategy + AI ideation tools (campaign concept generation)
@@ -623,7 +623,7 @@ The backwards design approach can be adapted for any business discipline. Below 
 **Assessment Structure:**
 - **Assessment 1 (25%):** Risk Assessment Simulation - Students conduct AI client consultation to understand business processes, submit risk analysis + process audit
 - **Assessment 2 (40%):** Audit Planning Portfolio - Students develop comprehensive audit plan using AI for initial risk assessment and procedure generation, with critical evaluation of AI recommendations
-- **Assessment 3 (35%):** Audit Findings Report - Students analyze audit evidence using AI for pattern identification, then provide professional audit conclusions and recommendations
+- **Assessment 3 (35%):** Audit Findings Report - Students analyse audit evidence using AI for pattern identification, then provide professional audit conclusions and recommendations
 
 **Weekly Progression Example:**
 - **Weeks 1-2:** Audit standards and ethics + AI prompt basics (control environment analysis)
@@ -655,7 +655,7 @@ The backwards design approach can be adapted for any business discipline. Below 
 **Assessment Structure:**
 - **Assessment 1 (25%):** Stakeholder Requirements Analysis - Students conduct AI consultation to understand business needs, submit requirements analysis + process audit
 - **Assessment 2 (40%):** Analytics Solution Portfolio - Students design comprehensive analytics solution using AI for initial model development and testing, with critical evaluation of AI approaches
-- **Assessment 3 (35%):** Strategic Insights Report - Students analyze complex business data using AI for initial insights, then provide strategic recommendations and implementation plans
+- **Assessment 3 (35%):** Strategic Insights Report - Students analyse complex business data using AI for initial insights, then provide strategic recommendations and implementation plans
 
 **Weekly Progression Example:**
 - **Weeks 1-2:** Data fundamentals and ethics + AI prompt basics (data quality assessment)
@@ -687,7 +687,7 @@ The backwards design approach can be adapted for any business discipline. Below 
 **Assessment Structure:**
 - **Assessment 1 (25%):** Guest Experience Consultation - Students conduct AI guest/stakeholder consultation to understand service expectations, submit analysis + process audit
 - **Assessment 2 (40%):** Service Innovation Portfolio - Students design comprehensive service improvement strategy using AI for trend analysis and idea generation, with critical evaluation of AI recommendations
-- **Assessment 3 (35%):** Operational Strategy Report - Students analyze hospitality performance data using AI for initial insights, then provide strategic recommendations and implementation plans
+- **Assessment 3 (35%):** Operational Strategy Report - Students analyse hospitality performance data using AI for initial insights, then provide strategic recommendations and implementation plans
 
 **Weekly Progression Example:**
 - **Weeks 1-2:** Hospitality fundamentals + AI prompt basics (service quality assessment)
@@ -711,7 +711,7 @@ The backwards design approach can be adapted for any business discipline. Below 
 **Learning Outcomes (AI-Neutral):**
 1. Analyse business requirements for technology solutions
 2. Design and implement enterprise system architectures
-3. Manage organizational change and user adoption processes
+3. Manage organisational change and user adoption processes
 4. Evaluate system performance and security considerations
 5. Apply project management methodologies in IT contexts
 6. Demonstrate ethical use of technology and data governance
@@ -719,7 +719,7 @@ The backwards design approach can be adapted for any business discipline. Below 
 **Assessment Structure:**
 - **Assessment 1 (25%):** Requirements Gathering Simulation - Students conduct AI stakeholder consultation to understand system needs, submit requirements analysis + process audit
 - **Assessment 2 (40%):** System Design Portfolio - Students develop comprehensive system solution using AI for initial architecture design and risk assessment, with critical evaluation of AI recommendations
-- **Assessment 3 (35%):** Implementation Strategy Report - Students analyze system implementation challenges using AI for initial planning, then provide strategic recommendations and change management plans
+- **Assessment 3 (35%):** Implementation Strategy Report - Students analyse system implementation challenges using AI for initial planning, then provide strategic recommendations and change management plans
 
 **Weekly Progression Example:**
 - **Weeks 1-2:** Systems analysis fundamentals + AI prompt basics (requirements documentation)
@@ -741,30 +741,30 @@ The backwards design approach can be adapted for any business discipline. Below 
 ### Unit: Strategic Leadership and Change Management
 
 **Learning Outcomes (AI-Neutral):**
-1. Analyse organizational dynamics and stakeholder relationships
+1. Analyse organisational dynamics and stakeholder relationships
 2. Develop strategic change management and leadership plans
 3. Apply conflict resolution and negotiation techniques
-4. Evaluate organizational culture and employee engagement
+4. Evaluate organisational culture and employee engagement
 5. Demonstrate ethical leadership and decision-making
 6. Design performance management and development systems
 
 **Assessment Structure:**
-- **Assessment 1 (25%):** Organizational Assessment Consultation - Students conduct AI stakeholder consultation to understand organizational dynamics, submit analysis + process audit
+- **Assessment 1 (25%):** Organisational Assessment Consultation - Students conduct AI stakeholder consultation to understand organisational dynamics, submit analysis + process audit
 - **Assessment 2 (40%):** Change Strategy Portfolio - Students design comprehensive change management plan using AI for stakeholder analysis and resistance assessment, with critical evaluation of AI recommendations
-- **Assessment 3 (35%):** Leadership Development Report - Students analyze leadership challenges using AI for initial assessment, then provide strategic recommendations and development plans
+- **Assessment 3 (35%):** Leadership Development Report - Students analyse leadership challenges using AI for initial assessment, then provide strategic recommendations and development plans
 
 **Weekly Progression Example:**
-- **Weeks 1-2:** Organizational behavior theory + AI prompt basics (stakeholder mapping)
+- **Weeks 1-2:** Organisational behaviour theory + AI prompt basics (stakeholder mapping)
 - **Weeks 3-4:** Leadership frameworks + AI assessment practice (organizational culture analysis)
-- **Weeks 5-6:** Assessment 1 - Organizational consultation simulation
+- **Weeks 5-6:** Assessment 1 - Organisational consultation simulation
 - **Weeks 7-8:** Change management + AI resistance analysis (change impact assessment)
 - **Weeks 9-10:** Conflict resolution + AI scenario planning (negotiation and mediation strategies)
 - **Weeks 11-12:** Assessment 2 - Change strategy portfolio + leadership development preparation
-- **Week 13:** Assessment 3 - Strategic leadership and organizational development
+- **Week 13:** Assessment 3 - Strategic leadership and organisational development
 
 **Key AI Integration Points:**
 - Stakeholder analysis and relationship mapping
-- Organizational culture assessment and change readiness evaluation
+- Organisational culture assessment and change readiness evaluation
 - Conflict resolution scenario planning and strategy development
 - Leadership development planning and succession management
 

@@ -27,7 +27,7 @@ Complex problem scoping is fundamental to all business disciplines. Whether desi
 **Discipline-specific contexts:**
 - **HR:** Policy and program design with stakeholder, legal, operational, and fairness considerations
 - **Business/Marketing:** Strategy development with market, competitive, financial, and capability considerations
-- **Management:** Organizational change with stakeholder, cultural, operational, and risk considerations
+- **Management:** Organisational change with stakeholder, cultural, operational, and risk considerations
 - **Supply Chain:** Network design with cost, resilience, sustainability, and operational considerations
 - **Accounting/Finance:** Audit or valuation scope with compliance, materiality, and stakeholder considerations
 - **Economics:** Policy design with trade-offs, stakeholder impacts, and evidence considerations
@@ -75,18 +75,18 @@ The student must think through each question before responding. By the end, they
 - "I need to design a customer loyalty program. What questions should I be asking to ensure it's viable and profitable?"
 
 ## Management
-- "I need to plan an organizational restructure. Ask me questions to help me think through all the stakeholder, cultural, and operational impacts."
+- "I need to plan an organisational restructure. Ask me questions to help me think through all the stakeholder, cultural, and operational impacts."
 - "I'm implementing a new management model. What questions should I ask myself about change management, training, and stakeholder readiness?"
 - "I need to design a change management strategy. Help me identify all the resistance points and engagement considerations."
 
 ## Supply Chain & Logistics
 - "I need to redesign our supply chain network. Ask me questions to help me think through cost, resilience, sustainability, and service considerations."
 - "I'm evaluating a supplier consolidation strategy. What questions should I be asking about risk, quality, and financial implications?"
-- "I need to implement demand planning. Ask me questions about data, systems, and organizational capability requirements."
+- "I need to implement demand planning. Ask me questions about data, systems, and organisational capability requirements."
 
 ## Information Systems
 - "I need to plan a systems implementation. Ask me questions to help me think through stakeholder requirements, technical feasibility, and change management."
-- "I'm designing an IT governance framework. What questions should I be asking about risk, compliance, and organizational adoption?"
+- "I'm designing an IT governance framework. What questions should I be asking about risk, compliance, and organisational adoption?"
 - "I need to scope a digital transformation initiative. Help me identify all the technical, organizational, and capability considerations."
 
 ## Accounting & Finance
@@ -96,7 +96,7 @@ The student must think through each question before responding. By the end, they
 
 ## Economics
 - "I need to design a policy recommendation to address economic inequality. Ask me questions to help me think through trade-offs, stakeholders, and evidence."
-- "I'm analyzing an economic model. What questions should I ask about assumptions, limitations, and stakeholder impacts?"
+- "I'm analysing an economic model. What questions should I ask about assumptions, limitations, and stakeholder impacts?"
 - "I need to scope an economic impact analysis. Help me identify all the affected parties and considerations."
 
 :::
@@ -162,7 +162,7 @@ This transforms the AI output from an answer into a starting point for deeper an
 - "What are the pros and cons of expanding through new products versus new markets?"
 
 ## Management
-- "Compare different organizational structures: functional, divisional, matrix, networked. Evaluate each for agility, accountability, and collaboration."
+- "Compare different organisational structures: functional, divisional, matrix, networked. Evaluate each for agility, accountability, and collaboration."
 - "Analyze different change management approaches: top-down, participative, emergent. What are the trade-offs for speed, buy-in, and sustainability?"
 - "What are the pros and cons of different leadership models: directive, participative, delegative?"
 
@@ -182,7 +182,7 @@ This transforms the AI output from an answer into a starting point for deeper an
 - "What are the pros and cons of different capital structure options: debt, equity, retained earnings?"
 
 ## Economics
-- "Compare different policy approaches to addressing unemployment: fiscal stimulus, labor market training, labor market deregulation. Evaluate each for effectiveness, cost, and trade-offs."
+- "Compare different policy approaches to addressing unemployment: fiscal stimulus, labour market training, labour market deregulation. Evaluate each for effectiveness, cost, and trade-offs."
 - "Analyze different economic models: Keynesian, neoclassical, behavioral. What assumptions and limitations does each have?"
 - "What are the pros and cons of different monetary policy tools: interest rates, quantitative easing, forward guidance?"
 
@@ -251,7 +251,7 @@ The student must actively engage with each step before progressing. This prevent
 - "Show me the new product development process from concept through launch, pausing to explain checkpoints and risk mitigation."
 
 ## Management
-- "Walk me through conducting an organizational change initiative. Explain each step and the risk if we skip it."
+- "Walk me through conducting an organisational change initiative. Explain each step and the risk if we skip it."
 - "Take me through creating a strategic plan from situational analysis through execution. Pause after each step."
 - "Show me the merger integration process step by step, explaining what happens if we get the sequencing wrong."
 
@@ -361,7 +361,7 @@ Now the student has to manage a realistic, emotionally charged scenario. They mu
 
 ## HR
 - AI plays a union representative in an enterprise bargaining negotiation
-- AI plays a candidate in a behavioral interview who gives weak answers that need probing
+- AI plays a candidate in a behavioural interview who gives weak answers that need probing
 - AI plays a manager who resists implementing a diversity initiative
 - AI plays an employee making an informal discrimination complaint
 
@@ -372,8 +372,8 @@ Now the student has to manage a realistic, emotionally charged scenario. They mu
 - AI plays a partner company executive in a partnership negotiation
 
 ## Management
-- AI plays an employee resistant to organizational change
-- AI plays a union representative in a labor negotiation
+- AI plays an employee resistant to organisational change
+- AI plays a union representative in a labour negotiation
 - AI plays a direct report who is underperforming and defensive
 - AI plays a peer manager with competing priorities
 

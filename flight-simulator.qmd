@@ -371,7 +371,7 @@ The three-phase system works for any high-stakes conversation in business. Below
 
 | Skill Area | Simulation Scenario | Key Learning Focus |
 |---|---|---|
-| **HR: Recruitment** | AI plays a candidate with vague answers | Behavioral interviewing, probing, bias awareness |
+| **HR: Recruitment** | AI plays a candidate with vague answers | Behavioural interviewing, probing, bias awareness |
 | **HR: Conflict Resolution** | AI plays employee making complaint | Investigation, empathy, impartiality, documentation |
 | **HR: Negotiation** | AI plays union representative | Interest-based negotiation, legal boundaries, compromise |
 | **Management: Change Leadership** | AI plays resistant manager | Communication, stakeholder management, emotional intelligence |
@@ -467,7 +467,7 @@ Stay in character. Begin by responding to my opening statement.
 
 **Setup Prompt Example:**
 ```
-You are David Kim, a 30-year-old business analyst at TechSolutions. You've been analyzing customer data for 18 months, but recent reports have contained significant errors that affected strategic decisions.
+You are David Kim, a 30-year-old business analyst at TechSolutions. You've been analysing customer data for 18 months, but recent reports have contained significant errors that affected strategic decisions.
 
 BACKGROUND CONTEXT:
 - Your quarterly customer segmentation report had 35% error rate
@@ -503,7 +503,7 @@ You are Sarah Thompson, a 32-year-old front office manager at LuxuryResort. You'
 
 BACKGROUND CONTEXT:
 - Guest satisfaction scores dropped from 4.8 to 3.9 out of 5
-- Three formal complaints about rude staff behavior in past month
+- Three formal complaints about rude staff behaviour in past month
 - Check-in wait times averaging 45 minutes (target is 15 minutes)
 - You received informal feedback about team morale issues 6 weeks ago
 
@@ -552,7 +552,7 @@ Stay in character. Begin by responding to my opening statement.
 ```
 
 **Key Learning Focus:**
-- Managing organizational change and user adoption
+- Managing organisational change and user adoption
 - Communicating technical benefits to non-technical users
 - Addressing resistance through stakeholder engagement
 
@@ -624,7 +624,7 @@ For each discipline, adjust the critique prompt to focus on discipline-specific 
 **Management Critique Focus:**
 - Leadership style and team motivation
 - Strategic alignment and goal setting
-- Organizational change management
+- Organisational change management
 
 ### Assessment Integration
 

@@ -19,13 +19,13 @@ This booklet is designed for multiple business disciplines. While the core princ
 ::: {.panel-tabset}
 
 # Business & Marketing
-Examples include market analysis, customer behavior modeling, campaign strategy, brand positioning, and competitive intelligence simulations.
+Examples include market analysis, customer behaviour modeling, campaign strategy, brand positioning, and competitive intelligence simulations.
 
-# Management & Organization Studies
-Examples include organizational design, change management, team dynamics, leadership scenarios, and process improvement workflows.
+# Management & Organisation Studies
+Examples include organisational design, change management, team dynamics, leadership scenarios, and process improvement workflows.
 
 # Human Resources
-Examples include recruitment workflows, performance management scenarios, employee relations simulations, talent development, and organizational behavior case studies.
+Examples include recruitment workflows, performance management scenarios, employee relations simulations, talent development, and organisational behaviour case studies.
 
 # Tourism & Hospitality
 Examples include destination marketing, customer experience design, revenue management, tourism planning, and hospitality crisis scenarios.
@@ -40,7 +40,7 @@ Examples include systems analysis, project management, IT governance, requiremen
 Examples include financial analysis, audit workflows, budget management, taxation scenarios, and financial reporting simulations.
 
 # Economics
-Examples include economic modeling, policy analysis, market equilibrium scenarios, microeconomic analysis, and behavioral economics simulations.
+Examples include economic modeling, policy analysis, market equilibrium scenarios, microeconomic analysis, and behavioural economics simulations.
 
 :::
 
@@ -91,7 +91,7 @@ Three principles underpin everything in this booklet:
 
 **1. AI as Scaffolding, Not Replacement**
 
-You are the expert educator. AI is a tool that helps you scale what you already know works—personalized practice, immediate feedback, realistic simulations. AI builds the framework quickly; you ensure it's pedagogically sound and academically rigorous.
+You are the expert educator. AI is a tool that helps you scale what you already know works—personalised practice, immediate feedback, realistic simulations. AI builds the framework quickly; you ensure it's pedagogically sound and academically rigorous.
 
 *How this applies to your discipline:*
 
@@ -101,7 +101,7 @@ You are the expert educator. AI is a tool that helps you scale what you already 
 AI generates competitive analysis frameworks and customer segmentation scenarios. You validate the business logic, ensure market assumptions are sound, and teach students to question data sources and market trends.
 
 # Management
-AI creates organizational scenarios and change management workflows. You ensure they reflect real organizational complexity, teach students about stakeholder dynamics, and guide reflection on ethical leadership implications.
+AI creates organisational scenarios and change management workflows. You ensure they reflect real organisational complexity, teach students about stakeholder dynamics, and guide reflection on ethical leadership implications.
 
 # Human Resources
 AI generates candidate profiles and HR scenarios. You ensure they reflect realistic workplace situations, teach students about bias in hiring, and guide ethical decision-making about employee relations.

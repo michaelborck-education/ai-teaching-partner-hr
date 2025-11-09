@@ -81,12 +81,12 @@ Begin.
 
 ## Management
 ```
-You are an expert organizational management lecturer at a university level.
+You are an expert organisational management lecturer at a university level.
 
-I need you to create a case study for my undergraduate students that will help them practice applying change management principles to a real organizational challenge.
+I need you to create a case study for my undergraduate students that will help them practice applying change management principles to a real organisational challenge.
 
 Here are the requirements:
-- The scenario should involve organizational change where managers face stakeholder resistance
+- The scenario should involve organisational change where managers face stakeholder resistance
 - Include enough detail that students need to identify which change management principles apply
 - The scenario should be 300-400 words
 - End with three discussion questions requiring students to analyse how leadership handled change effectively
@@ -98,7 +98,7 @@ Begin.
 ```
 You are an expert HR lecturer at a university level.
 
-I need you to create a case study for my undergraduate students that will help them practice applying HR strategy to organizational challenges.
+I need you to create a case study for my undergraduate students that will help them practice applying HR strategy to organisational challenges.
 
 Here are the requirements:
 - The scenario should involve a talent management or employee relations decision with legal/ethical complexity
@@ -213,7 +213,7 @@ This tells the AI what perspective to adopt. Effective roles depend on your disc
 "You are an experienced marketing director launching a new product" or "You are a market research analyst evaluating competitive positioning"
 
 ## Management
-"You are a senior manager navigating organizational change" or "You are an executive coach helping with team dynamics"
+"You are a senior manager navigating organisational change" or "You are an executive coach helping with team dynamics"
 
 ## Human Resources
 "You are an HR business partner handling sensitive employee situations" or "You are a recruitment specialist evaluating candidate fit"
@@ -231,7 +231,7 @@ This tells the AI what perspective to adopt. Effective roles depend on your disc
 "You are an auditor evaluating financial statements" or "You are a financial analyst making investment recommendations"
 
 ## Economics
-"You are an economist advising on policy decisions" or "You are a researcher analyzing economic trends"
+"You are an economist advising on policy decisions" or "You are a researcher analysing economic trends"
 
 :::
 
@@ -322,7 +322,7 @@ Begin.
 - Generate financial statements with accounting errors to find
 - Create a valuation decision with ambiguous treatments
 - Draft an audit report with missed red flags
-- Write a fraud detection scenario students must analyze
+- Write a fraud detection scenario students must analyse
 
 ## Economics
 - Generate economic policy scenarios with competing interests
@@ -371,7 +371,7 @@ As you experiment, keep these realities in mind:
 "Set this in an Australian retail context" or "Reference Australian Consumer Law and ACCC regulations"
 
 ## Management
-"Set this in an Australian public sector organization" or "Reference Fair Work Act requirements"
+"Set this in an Australian public sector organisation" or "Reference Fair Work Act requirements"
 
 ## Human Resources
 "Include Australian employment law and Fair Work Commission context" or "Reference Australian workplace discrimination law"
@@ -389,7 +389,7 @@ As you experiment, keep these realities in mind:
 "Reference Australian Accounting Standards and ASIC rules" or "Use Australian tax law context"
 
 ## Economics
-"Reference Australian economic policy and RBA context" or "Use Australian labor market data"
+"Reference Australian economic policy and RBA context" or "Use Australian labour market data"
 
 :::
 
@@ -417,42 +417,42 @@ Try this homework before Chapter 3. Choose three prompts from your discipline:
 ## Business & Marketing
 1. Generate market research questions for a competitor analysis
 2. Role-play a demanding customer objecting to your product pricing
-3. Analyze a marketing plan for strategic alignment and competitive position
+3. Analyse a marketing plan for strategic alignment and competitive position
 
 ## Management
-1. Generate an organizational change scenario for students to analyze
+1. Generate an organisational change scenario for students to analyse
 2. Role-play a resistant employee in a change management conversation
-3. Analyze a leadership decision for stakeholder impact
+3. Analyse a leadership decision for stakeholder impact
 
 ## Human Resources
 1. Generate interview questions and evaluate them for bias
 2. Role-play a difficult performance management conversation
-3. Analyze an HR policy for legal compliance and fairness
+3. Analyse an HR policy for legal compliance and fairness
 
 ## Tourism & Hospitality
 1. Generate guest complaint scenarios for service recovery
 2. Role-play a demanding guest in a difficult service situation
-3. Analyze a service strategy for customer experience effectiveness
+3. Analyse a service strategy for customer experience effectiveness
 
 ## Supply Chain & Logistics
 1. Generate supply chain disruption scenarios with constraints
 2. Role-play a demanding supplier in a negotiation
-3. Analyze a logistics plan for efficiency and resilience
+3. Analyse a logistics plan for efficiency and resilience
 
 ## Information Systems
 1. Generate IT project requirements with stakeholder conflicts
 2. Role-play a demanding stakeholder with unclear needs
-3. Analyze a project plan for scope management and risk
+3. Analyse a project plan for scope management and risk
 
 ## Accounting & Finance
 1. Generate financial statements with errors for audit analysis
 2. Role-play an auditor questioning a financial treatment
-3. Analyze a valuation decision for accounting judgment
+3. Analyse a valuation decision for accounting judgment
 
 ## Economics
 1. Generate economic policy scenarios with trade-offs
 2. Role-play an economist presenting competing models
-3. Analyze an economic forecast for assumptions and limitations
+3. Analyse an economic forecast for assumptions and limitations
 
 :::
 

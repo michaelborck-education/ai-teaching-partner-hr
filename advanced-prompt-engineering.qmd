@@ -195,7 +195,7 @@ The prompting patterns below show HR examples, but the same structures apply acr
 
 - **Accounting**: Legal and regulatory frameworks become compliance with accounting standards (IFRS, GAAP)
 - **Marketing**: Ethical considerations become consumer protection and brand reputation management
-- **Management**: Stakeholder analysis becomes organizational hierarchy and change management considerations
+- **Management**: Stakeholder analysis becomes organisational hierarchy and change management considerations
 - **Supply Chain**: Risk assessment becomes logistics disruption and vendor management
 - **Information Systems**: Professional boundaries become data security and system reliability requirements
 - **Tourism & Hospitality**: Compliance integration becomes service standards and guest satisfaction regulations

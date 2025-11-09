@@ -27,7 +27,7 @@ This appendix uses HR programs as the primary example, but the learning outcome 
 
 - **Business & Marketing programs** (undergraduate and postgraduate)
 - **Accounting & Finance programs** (undergraduate and postgraduate)
-- **Management & Organizational Studies programs** (undergraduate and postgraduate)
+- **Management & Organisational Studies programs** (undergraduate and postgraduate)
 - **Tourism & Hospitality Management programs** (undergraduate and postgraduate)
 - **Supply Chain & Logistics programs** (undergraduate and postgraduate)
 - **Information Systems & Technology programs** (undergraduate and postgraduate)
@@ -50,7 +50,7 @@ This section maps specific AI teaching applications from this booklet to Curtin 
 ## Core Learning Outcome 1: Apply Discipline-Specific Theory to Evidence-Based Practice
 
 ### Curtin Expectation:
-Students must demonstrate ability to apply discipline-specific theories (psychological, organizational, business, technical, etc.) to real-world situations and make evidence-based decisions.
+Students must demonstrate ability to apply discipline-specific theories (psychological, organisational, business, technical, etc.) to real-world situations and make evidence-based decisions.
 
 *Example context (HR): Students must demonstrate ability to apply psychological and organisational theories to real-world HR situations and make evidence-based decisions.*
 
@@ -279,15 +279,15 @@ The AI applications in this booklet directly prepare students for careers across
 - Evaluating multiple financial approaches (Chapter 3, Pros and Cons)
 - Using technology responsibly in analysis (Chapter 9)
 
-## Management & Organizational Studies Careers
+## Management & Organisational Studies Careers
 ### Operations Manager/Consultant
 - Managing team performance and development (Chapters 3, 4)
-- Navigating organizational change (Chapters 4, 6)
+- Navigating organisational change (Chapters 4, 6)
 - Making strategic decisions with competing interests (Chapter 3, Debating)
-- Communicating across organizational levels (Chapters 3, 4)
+- Communicating across organisational levels (Chapters 3, 4)
 
 ### Change Management Specialist
-- Leading complex organizational change (Chapters 4, 6)
+- Leading complex organisational change (Chapters 4, 6)
 - Managing stakeholder resistance (Chapters 3, 4)
 - Communicating change effectively (Chapters 3, 4)
 - Applying change theory to real situations (All chapters)
@@ -313,7 +313,7 @@ The AI applications in this booklet directly prepare students for careers across
 - Making technical decisions with incomplete information (Chapters 3, 7)
 
 ### Systems Analyst
-- Eliciting and analyzing requirements (Chapters 3, 4)
+- Eliciting and analysing requirements (Chapters 3, 4)
 - Evaluating technical solutions (Chapter 3, Pros and Cons)
 - Communicating complex analysis clearly (Chapters 3, 4)
 - Applying IT theory to real implementation challenges (All chapters)

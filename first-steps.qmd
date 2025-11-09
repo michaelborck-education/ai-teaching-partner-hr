@@ -32,8 +32,8 @@ Before you introduce AI to students, you need to be comfortable with it yourself
 - Draft a market positioning analysis for a case study
 
 ## Management
-- Create an organizational change scenario showing stakeholder resistance
-- Generate examples of poor delegation decisions students must analyze
+- Create an organisational change scenario showing stakeholder resistance
+- Generate examples of poor delegation decisions students must analyse
 - Draft a leadership case study with team dynamics
 
 ## Human Resources
@@ -63,7 +63,7 @@ Before you introduce AI to students, you need to be comfortable with it yourself
 
 ## Economics
 - Create policy recommendation scenarios with trade-offs
-- Generate economic forecasting problems students must analyze
+- Generate economic forecasting problems students must analyse
 - Draft scenarios comparing competing economic models
 
 :::
@@ -91,12 +91,12 @@ Before you introduce AI to students, you need to be comfortable with it yourself
 3. Generate a critique of your persuasion and needs-identification approach
 
 ## Management
-1. Write a setup prompt: "Role-play as a resistant employee during organizational change announcement"
+1. Write a setup prompt: "Role-play as a resistant employee during organisational change announcement"
 2. Have the conversation with the AI as if you're the manager
 3. Generate a critique of your stakeholder engagement approach
 
 ## Human Resources
-1. Write a setup prompt: "Role-play as a candidate with difficult behavioral issues in an interview"
+1. Write a setup prompt: "Role-play as a candidate with difficult behavioural issues in an interview"
 2. Have the conversation with the AI as if you're the recruiter
 3. Generate a critique of your questioning technique and bias awareness
 
@@ -260,14 +260,14 @@ Assign a short, reflective writing task where students *experiment with* AI rath
 ## Business & Marketing
 > **Assignment: AI for Market Analysis (5% of grade)**
 > 1. Choose one market analysis skill we've covered (competitive analysis, customer segmentation, positioning strategy)
-> 2. Use an AI tool to help you practice or analyze that skill
+> 2. Use an AI tool to help you practice or analyse that skill
 > 3. Write a 500-word reflection: What task did you ask AI to help with? What was useful? What was wrong or oversimplified? How would you use AI professionally?
 
 ## Management
-> **Assignment: AI for Organizational Analysis (5% of grade)**
+> **Assignment: AI for Organisational Analysis (5% of grade)**
 > 1. Choose one management skill we've covered (change analysis, stakeholder mapping, decision-making)
 > 2. Use an AI tool to help you practice that skill
-> 3. Write a 500-word reflection: What was useful about AI? What did AI miss about organizational complexity? How would you apply this professionally?
+> 3. Write a 500-word reflection: What was useful about AI? What did AI miss about organisational complexity? How would you apply this professionally?
 
 ## Human Resources
 > **Assignment: AI as an HR Tool (5% of grade)**
@@ -576,11 +576,11 @@ After students submit the pilot assessment, collect structured feedback.
 
 ## Management
 1. How useful was AI for practicing management skills? (1-5 scale)
-2. What worked well about using AI for organizational challenges?
+2. What worked well about using AI for organisational challenges?
 3. What was confusing or frustrating?
 4. Would you use AI for management analysis in your career?
 5. Did this assignment help you develop practical management skills? (1-5 scale)
-6. Any comments on using AI for organizational work?
+6. Any comments on using AI for organisational work?
 
 ## Human Resources
 1. How useful was AI for practicing HR skills? (1-5 scale)
@@ -699,7 +699,7 @@ Make your existing AI assignment more sophisticated:
 > "I understand this is different. But in marketing work, you'll use AI tools for analysis, forecasting, and customer insights. My job is to prepare you for professional practice, and that now includes knowing when and how to use AI responsibly for market work. You don't need to become an AI expert—just a critical user."
 
 ## Management
-> "I understand this is different. But in management, you'll use AI for organizational analysis and decision support. My job is to prepare you for professional practice where AI is a standard tool. I'm not asking you to become a tech expert—just to understand AI's role in organizational work."
+> "I understand this is different. But in management, you'll use AI for organisational analysis and decision support. My job is to prepare you for professional practice where AI is a standard tool. I'm not asking you to become a tech expert—just to understand AI's role in organisational work."
 
 ## Human Resources
 > "I understand this is different. But in HR work, you'll use AI tools in recruitment, analytics, and decision support. My job is to prepare you for professional practice, and that includes knowing when and how to use AI responsibly. You don't become an AI expert—just a critical, ethical user."
@@ -784,7 +784,7 @@ How do you know if this is working? Look for these indicators:
 - Higher quality of work on related assessments
 - Students citing practical experiences ("when I practiced the conversation simulation...") in reflections
 - Fewer students making basic procedural errors
-- More sophisticated understanding of discipline-specific complexity (organizational dynamics, market forces, supply chain trade-offs, etc.)
+- More sophisticated understanding of discipline-specific complexity (organisational dynamics, market forces, supply chain trade-offs, etc.)
 
 **Student engagement:**
 - Students asking for more AI-enhanced activities

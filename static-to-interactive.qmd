@@ -128,7 +128,7 @@ Depending on your field, here are typical interactive transformations:
 3. **Valuation Decision Tree** - Student applies valuation methods with assumptions and sensitivity analysis
 
 ### Management Examples
-1. **Change Management Simulator** - Student plans organizational change with stakeholder mapping
+1. **Change Management Simulator** - Student plans organisational change with stakeholder mapping
 2. **Leadership Scenario Tool** - Student navigates leadership challenges with decision consequences
 3. **Conflict Resolution Simulation** - Student manages team conflicts with resolution strategy selection
 
@@ -462,7 +462,7 @@ Transform this hospitality service failure scenario into an interactive recovery
 [Paste complaint case study]
 
 Create:
-1. Complaint analysis framework with categorization
+1. Complaint analysis framework with categorisation
 2. Service recovery strategy selector with consequences
 3. Compensation calculator with industry benchmarks
 4. Communication planning tool for guest outreach
@@ -517,14 +517,14 @@ Include IT project management terminology and system development best practices.
 
 ## Management
 
-### Organizational Change Simulation
+### Organisational Change Simulation
 
 **Static Content Example:**
 - Change management case study with stakeholder analysis and implementation planning
 
 **Interactive Transformation:**
 ```html
-<!-- Student assesses organizational readiness -->
+<!-- Student assesses organisational readiness -->
 <!-- Maps stakeholder positions and influence -->
 <!-- Develops change communication plan -->
 <!-- Creates resistance management strategies -->
@@ -533,23 +533,23 @@ Include IT project management terminology and system development best practices.
 
 **AI Prompt Example:**
 ```
-Create an interactive HTML change management simulation from this organizational case:
+Create an interactive HTML change management simulation from this organisational case:
 
 [Paste change management scenario]
 
 Build:
-1. Organizational readiness assessment tool
+1. Organisational readiness assessment tool
 2. Stakeholder mapping interface with influence/interest matrix
 3. Communication planning wizard
 4. Resistance identification and mitigation selector
 5. Change progress tracking dashboard
 
-Include organizational development theory and change management frameworks.
+Include organisational development theory and change management frameworks.
 ```
 
 **Key Interactive Elements:**
 - **Stakeholder influence mapper** - visual positioning of key players
-- **Change readiness calculator** - assesses organizational capacity
+- **Change readiness calculator** - assesses organisational capacity
 - **Communication campaign builder** - multi-channel messaging planner
 - **Resistance pattern analyzer** - identifies common barriers and solutions
 
@@ -571,7 +571,7 @@ Include organizational development theory and change management frameworks.
 - Focus on methodological rigor and documentation
 - Incorporate industry standards and professional frameworks
 
-**Behavioral Fields (Management, Hospitality):**
+**Behavioural Fields (Management, Hospitality):**
 - Emphasize stakeholder dynamics and relationships
 - Include emotional intelligence and communication elements
 - Focus on contextual decision-making

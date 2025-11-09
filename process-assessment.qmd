@@ -12,7 +12,7 @@ What are you really trying to assess in business education?
 
 **This is assessing process—the professional methodology.**
 
-The difference matters enormously. A student can memorize definitions and still conduct a terrible negotiation. They can recite frameworks and still make decisions that expose an organization to risk.
+The difference matters enormously. A student can memorize definitions and still conduct a terrible negotiation. They can recite frameworks and still make decisions that expose an organisation to risk.
 
 **Professional work is a process discipline.** The value lies not in what you know, but in what you *do* with what you know—how you investigate, how you communicate, how you analyse evidence, how you make decisions under uncertainty.
 
@@ -472,15 +472,15 @@ The three process-based assessment models can be adapted for any business discip
 
 ### Model 2: Evidence-Based Campaign Strategy Plan
 
-**Context:** Students analyze marketing performance data and develop strategic recommendations, critiquing AI-generated options.
+**Context:** Students analyse marketing performance data and develop strategic recommendations, critiquing AI-generated options.
 
 **Assignment Structure:**
-1. **Data Analysis:** Students use AI to analyze campaign performance data (engagement rates, conversion metrics, customer segments)
+1. **Data Analysis:** Students use AI to analyse campaign performance data (engagement rates, conversion metrics, customer segments)
 2. **Strategy Generation:** AI generates three distinct campaign strategy options
 3. **Critical Evaluation:** Students critique each option and make a justified recommendation
 
 **Key Assessment Focus:**
-- Application of consumer behavior theory to data insights
+- Application of consumer behaviour theory to data insights
 - Critical evaluation of AI marketing recommendations
 - Integration of brand strategy and market positioning
 - Justification of strategic choices with marketing theory
@@ -523,10 +523,10 @@ The three process-based assessment models can be adapted for any business discip
 
 ### Model 2: Evidence-Based Financial Control Recommendations
 
-**Context:** Students analyze financial control weaknesses and develop remediation strategies, critiquing AI-generated options.
+**Context:** Students analyse financial control weaknesses and develop remediation strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
-1. **Control Analysis:** Students use AI to analyze control deficiencies in financial processes
+1. **Control Analysis:** Students use AI to analyse control deficiencies in financial processes
 2. **Remediation Options:** AI generates three distinct control improvement strategies
 3. **Critical Evaluation:** Students evaluate options against regulatory requirements and business needs
 
@@ -574,10 +574,10 @@ The three process-based assessment models can be adapted for any business discip
 
 ### Model 2: Evidence-Based Analytics Strategy Plan
 
-**Context:** Students analyze business data challenges and develop analytical solutions, critiquing AI-generated approaches.
+**Context:** Students analyse business data challenges and develop analytical solutions, critiquing AI-generated approaches.
 
 **Assignment Structure:**
-1. **Problem Analysis:** Students use AI to analyze complex business data scenarios
+1. **Problem Analysis:** Students use AI to analyse complex business data scenarios
 2. **Solution Options:** AI generates three distinct analytical approaches
 3. **Critical Evaluation:** Students evaluate options against business requirements and technical feasibility
 
@@ -625,10 +625,10 @@ The three process-based assessment models can be adapted for any business discip
 
 ### Model 2: Evidence-Based Service Improvement Plan
 
-**Context:** Students analyze guest satisfaction data and develop service enhancement strategies, critiquing AI-generated options.
+**Context:** Students analyse guest satisfaction data and develop service enhancement strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
-1. **Satisfaction Analysis:** Students use AI to analyze guest feedback and service performance data
+1. **Satisfaction Analysis:** Students use AI to analyse guest feedback and service performance data
 2. **Improvement Options:** AI generates three distinct service enhancement strategies
 3. **Critical Evaluation:** Students evaluate options against operational feasibility and guest expectations
 
@@ -650,7 +650,7 @@ The three process-based assessment models can be adapted for any business discip
 **Assessment Criteria:**
 - Understanding of service design principles and customer journey mapping
 - Ability to identify service quality gaps and improvement opportunities
-- Application of hospitality psychology and customer behavior
+- Application of hospitality psychology and customer behaviour
 - Ethical considerations in service delivery decisions
 
 ## Information Systems
@@ -670,16 +670,16 @@ The three process-based assessment models can be adapted for any business discip
 
 **Assessment Criteria:**
 - Did they translate technical concepts for non-technical stakeholders?
-- Did they demonstrate understanding of organizational change dynamics?
+- Did they demonstrate understanding of organisational change dynamics?
 - Did they balance technical requirements with business needs?
 - Did they create realistic implementation plans?
 
 ### Model 2: Evidence-Based Technology Strategy Plan
 
-**Context:** Students analyze IT system requirements and develop implementation strategies, critiquing AI-generated options.
+**Context:** Students analyse IT system requirements and develop implementation strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
-1. **Requirements Analysis:** Students use AI to analyze business requirements and technical constraints
+1. **Requirements Analysis:** Students use AI to analyse business requirements and technical constraints
 2. **Implementation Options:** AI generates three distinct technology solution approaches
 3. **Critical Evaluation:** Students evaluate options against business objectives and technical feasibility
 
@@ -701,7 +701,7 @@ The three process-based assessment models can be adapted for any business discip
 **Assessment Criteria:**
 - Understanding of requirements engineering principles and techniques
 - Ability to elicit and document stakeholder requirements accurately
-- Application of user-centered design and usability principles
+- Application of user-centred design and usability principles
 - Technical and business alignment in requirements decisions
 
 ## Management
@@ -715,7 +715,7 @@ The three process-based assessment models can be adapted for any business discip
 
 **Process Audit Focus:**
 - Establishment of coaching relationship and trust
-- Diagnostic questioning to understand organizational dynamics
+- Diagnostic questioning to understand organisational dynamics
 - Development of leadership action plans
 - Documentation of coaching agreements and follow-up
 
@@ -725,17 +725,17 @@ The three process-based assessment models can be adapted for any business discip
 - Did they provide evidence-based leadership advice?
 - Did they create actionable development plans?
 
-### Model 2: Evidence-Based Organizational Change Plan
+### Model 2: Evidence-Based Organisational Change Plan
 
-**Context:** Students analyze change management challenges and develop implementation strategies, critiquing AI-generated options.
+**Context:** Students analyse change management challenges and develop implementation strategies, critiquing AI-generated options.
 
 **Assignment Structure:**
-1. **Change Analysis:** Students use AI to analyze organizational change scenarios and stakeholder dynamics
+1. **Change Analysis:** Students use AI to analyse organisational change scenarios and stakeholder dynamics
 2. **Change Options:** AI generates three distinct change management approaches
-3. **Critical Evaluation:** Students evaluate options against organizational culture and change readiness
+3. **Critical Evaluation:** Students evaluate options against organisational culture and change readiness
 
 **Key Assessment Focus:**
-- Application of organizational behavior and change management theory
+- Application of organisational behaviour and change management theory
 - Critical evaluation of AI-generated change strategies
 - Integration of human factors with business objectives
 - Justification of change approach choices with management theory
@@ -752,7 +752,7 @@ The three process-based assessment models can be adapted for any business discip
 **Assessment Criteria:**
 - Understanding of leadership theory and competency frameworks
 - Ability to assess leadership strengths and development needs
-- Application of organizational psychology and motivation theory
+- Application of organisational psychology and motivation theory
 - Ethical considerations in leadership development decisions
 
 :::

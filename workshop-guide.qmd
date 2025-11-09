@@ -170,7 +170,7 @@ You are an expert lecturer in Management.
 
 Create a 400-word case study for third-year undergraduate students about a
 change management challenge. The scenario should involve stakeholder resistance
-and require students to apply leadership and organizational change theory.
+and require students to apply leadership and organisational change theory.
 
 Include 3 discussion questions that require critical analysis.
 
@@ -406,7 +406,7 @@ analysis. Begin.
 ## Management
 ```
 You are an expert Management lecturer. Create a 400-word case study for
-undergraduate students about an organizational change facing stakeholder
+undergraduate students about an organisational change facing stakeholder
 resistance. Include 3 discussion questions requiring critical analysis. Begin.
 ```
 

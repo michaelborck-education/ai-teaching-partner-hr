@@ -629,18 +629,18 @@ The research assistant applications can be adapted for postgraduate research acr
 ```
 PROMPT: Marketing Literature Exploration
 
-I'm researching consumer responses to AI-powered personalization in e-commerce. Help me identify:
+I'm researching consumer responses to AI-powered personalisation in e-commerce. Help me identify:
 1. Key theoretical frameworks (e.g., Technology Acceptance Model, Privacy Calculus Theory)
-2. Seminal papers on personalization ethics and effectiveness
+2. Seminal papers on personalisation ethics and effectiveness
 3. Industry reports from Gartner/McKinsey on AI marketing adoption
-4. Emerging debates about privacy vs. personalization benefits
-5. Research gaps in cross-cultural personalization studies
+4. Emerging debates about privacy vs. personalisation benefits
+5. Research gaps in cross-cultural personalisation studies
 
 Do not write a literature review—give me a research landscape map.
 ```
 
 **Critical AI Evaluation:**
-- AI may overemphasize recent digital marketing studies while missing foundational consumer behavior theory
+- AI may overemphasize recent digital marketing studies while missing foundational consumer behaviour theory
 - Industry reports cited by AI should be verified for current validity
 - Cross-cultural considerations often underrepresented in AI-generated literature maps
 
@@ -686,7 +686,7 @@ Suggest potential themes emerging from this data sample. This is preliminary—I
 ```
 
 **Critical Oversight:**
-- AI may miss cultural nuances in consumer behavior interpretation
+- AI may miss cultural nuances in consumer behaviour interpretation
 - Marketing metrics often have industry-specific contextual meanings
 - Qualitative data requires sensitivity to brand and product context
 
@@ -752,7 +752,7 @@ Do not write my research question—help me develop it myself.
 ```
 PROMPT: Accounting Data Pattern Recognition
 
-I analyzed 50 audit files for fair value measurement disclosures. My research question examines auditor judgment patterns.
+I analysed 50 audit files for fair value measurement disclosures. My research question examines auditor judgment patterns.
 
 Suggest potential themes emerging from this documentation sample. This is preliminary—I will do my own thematic analysis.
 
@@ -817,7 +817,7 @@ Do not write my research question—help me develop it myself.
 ### Data Analysis Applications
 
 **Analytics Data Types:**
-- Large datasets, time series data, customer behavioral data
+- Large datasets, time series data, customer behavioural data
 - Model performance metrics, validation results
 - Algorithm comparison studies, implementation case studies
 
@@ -899,7 +899,7 @@ Do not write my research question—help me develop it myself.
 ```
 PROMPT: Hospitality Data Pattern Recognition
 
-I analyzed 300 customer reviews from a luxury resort. My research question examines service quality dimensions affecting satisfaction.
+I analysed 300 customer reviews from a luxury resort. My research question examines service quality dimensions affecting satisfaction.
 
 Suggest potential themes emerging from this review sample. This is preliminary—I will do my own thematic analysis.
 
@@ -917,7 +917,7 @@ Suggest potential themes emerging from this review sample. This is preliminary�
 
 **Discipline-Specific Considerations:**
 - IS literature includes technology adoption, system implementation, and digital transformation
-- Need to integrate technical research with organizational change theory
+- Need to integrate technical research with organisational change theory
 - Emphasis on user acceptance, security, and implementation success factors
 
 **Appropriate AI Use Examples:**
@@ -937,12 +937,12 @@ Do not write a literature review—give me a research landscape map.
 **Critical AI Evaluation:**
 - AI may not adequately distinguish between different theoretical frameworks
 - Technical implementation details require careful verification
-- Organizational change aspects often need deeper theoretical integration
+- Organisational change aspects often need deeper theoretical integration
 
 ### Research Question Development
 
 **IS-Specific Challenges:**
-- Balancing technical and organizational perspectives
+- Balancing technical and organisational perspectives
 - Incorporating implementation timelines and resource constraints
 - Addressing security, privacy, and ethical technology considerations
 
@@ -950,12 +950,12 @@ Do not write a literature review—give me a research landscape map.
 ```
 PROMPT: IS Research Question Refinement
 
-My broad topic is digital transformation in traditional industries. My draft question: "How do organizations successfully implement digital transformation?"
+My broad topic is digital transformation in traditional industries. My draft question: "How do organisations successfully implement digital transformation?"
 
 Help me refine by:
 1. Clarifying what "successful" means (metrics, stakeholder perspectives?)
 2. Identifying specific technologies and industry contexts
-3. Considering organizational readiness and change management
+3. Considering organisational readiness and change management
 4. Addressing implementation challenges and risk factors
 
 Do not write my research question—help me develop it myself.
@@ -983,16 +983,16 @@ Suggest potential themes emerging from this interview sample. This is preliminar
 **Critical Oversight:**
 - Technical terminology requires precise interpretation
 - Implementation context varies significantly by technology type
-- User adoption factors need careful psychological and organizational analysis
+- User adoption factors need careful psychological and organisational analysis
 
 ## Management
 
 ### Literature Review Applications
 
 **Discipline-Specific Considerations:**
-- Management literature spans organizational behavior, strategy, leadership, and change management
+- Management literature spans organisational behavior, strategy, leadership, and change management
 - Need to integrate theoretical frameworks with practical management applications
-- Emphasis on contextual factors and organizational dynamics
+- Emphasis on contextual factors and organisational dynamics
 
 **Appropriate AI Use Examples:**
 ```
@@ -1000,7 +1000,7 @@ PROMPT: Management Literature Exploration
 
 I'm researching leadership development in digital transformation. Help me identify:
 1. Key leadership theories and models (transformational, situational, authentic)
-2. Organizational change frameworks (Kotter, Lewin, ADKAR)
+2. Organisational change frameworks (Kotter, Lewin, ADKAR)
 3. Digital transformation management studies and case analyses
 4. Contextual factors affecting leadership effectiveness
 5. Research gaps in leadership development for digital contexts
@@ -1016,20 +1016,20 @@ Do not write a literature review—give me a research landscape map.
 ### Research Question Development
 
 **Management-Specific Challenges:**
-- Incorporating organizational context and situational factors
+- Incorporating organisational context and situational factors
 - Balancing theoretical frameworks with practical management implications
-- Addressing leadership and organizational behavior complexities
+- Addressing leadership and organisational behaviour complexities
 
 **AI-Assisted Refinement:**
 ```
 PROMPT: Management Research Question Refinement
 
-My broad topic is organizational culture change. My draft question: "How do leaders change organizational culture?"
+My broad topic is organisational culture change. My draft question: "How do leaders change organisational culture?"
 
 Help me refine by:
 1. Clarifying what aspects of culture (values, behaviors, artifacts?)
 2. Identifying specific change contexts and leadership approaches
-3. Considering organizational size, industry, and cultural factors
+3. Considering organisational size, industry, and cultural factors
 4. Addressing measurement challenges and success criteria
 
 Do not write my research question—help me develop it myself.
@@ -1038,7 +1038,7 @@ Do not write my research question—help me develop it myself.
 ### Data Analysis Applications
 
 **Management Data Types:**
-- Organizational survey data, leadership assessment results
+- Organisational survey data, leadership assessment results
 - Change management project documentation
 - Performance metrics, employee engagement data
 - Case study analyses and intervention evaluations
@@ -1047,7 +1047,7 @@ Do not write my research question—help me develop it myself.
 ```
 PROMPT: Management Data Pattern Recognition
 
-I analyzed survey responses from 200 employees about leadership effectiveness. My research question examines leadership behaviors affecting engagement.
+I analysed survey responses from 200 employees about leadership effectiveness. My research question examines leadership behaviours affecting engagement.
 
 Suggest potential themes emerging from this survey sample. This is preliminary—I will do my own thematic analysis.
 
@@ -1055,7 +1055,7 @@ Suggest potential themes emerging from this survey sample. This is preliminary�
 ```
 
 **Critical Oversight:**
-- Organizational context interpretation requires deep understanding
+- Organisational context interpretation requires deep understanding
 - Leadership and management concepts have nuanced meanings
 - Survey data analysis needs careful psychometric consideration
 
@@ -1087,7 +1087,7 @@ Regardless of discipline, students must verify:
 
 **Behavioral Disciplines (Marketing, Hospitality, Management):**
 - Emphasize contextual interpretation and cultural sensitivity
-- Teach evaluation of AI's understanding of human behavior
+- Teach evaluation of AI's understanding of human behaviour
 - Focus on practical application and stakeholder implications
 
 **Creative Disciplines (Marketing, Management):**

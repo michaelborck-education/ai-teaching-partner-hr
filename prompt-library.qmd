@@ -935,7 +935,7 @@ Requirements:
 - Incorporate at least two marketing concepts [e.g., customer segmentation, brand equity, digital analytics, consumer behavior]
 - End with 3-4 discussion questions that require critical thinking and application of marketing theory
 
-The case should be challenging but appropriate for students who have covered [list topics they've learned: e.g., marketing mix, consumer behavior theory, digital marketing].
+The case should be challenging but appropriate for students who have covered [list topics they've learned: e.g., marketing mix, consumer behaviour theory, digital marketing].
 
 Begin.
 ```
@@ -956,7 +956,7 @@ The scenario should require students to:
 - Analyse multiple perspectives
 - Identify underlying market or brand issues
 - Recommend a marketing strategy that balances competing interests
-- Apply at least one marketing theory [specify if desired: e.g., customer lifetime value, brand equity, behavioral economics]
+- Apply at least one marketing theory [specify if desired: e.g., customer lifetime value, brand equity, behavioural economics]
 
 Make the scenario realistic with no easy "right answer."
 
@@ -1110,7 +1110,7 @@ Create a realistic analytics data scenario for students to analyze. The scenario
 
 2. Mock analytics data summary including:
    - Key performance metrics and KPIs
-   - Customer behavior patterns and trends
+   - Customer behaviour patterns and trends
    - Competitive analysis data
    - 5-6 key findings from data exploration
 
@@ -1274,9 +1274,9 @@ For each stakeholder, provide:
 
 The scenario should require students to:
 - Analyse multiple perspectives
-- Identify underlying technical and organizational issues
+- Identify underlying technical and organisational issues
 - Recommend an IT strategy that balances competing interests
-- Apply at least one IS theory [specify if desired: e.g., technology acceptance model, organizational change theory, risk management frameworks]
+- Apply at least one IS theory [specify if desired: e.g., technology acceptance model, organisational change theory, risk management frameworks]
 
 Make the scenario realistic with no easy "right answer."
 
@@ -1320,23 +1320,23 @@ Stay in character. Respond to my opening statement.
 ```
 You are an expert lecturer in Management at university level.
 
-Create a realistic case study scenario for my [undergraduate/postgraduate] students that focuses on [specific topic: e.g., organizational change resistance, leadership transition, team conflict, strategic decision-making].
+Create a realistic case study scenario for my [undergraduate/postgraduate] students that focuses on [specific topic: e.g., organisational change resistance, leadership transition, team conflict, strategic decision-making].
 
 Requirements:
 - The scenario should be 400-500 words
-- Set in a contemporary organizational context
+- Set in a contemporary organisational context
 - Include enough ambiguity that students must analyse competing management approaches
-- Incorporate at least two management concepts [e.g., organizational behavior, leadership theory, change management, conflict resolution]
+- Incorporate at least two management concepts [e.g., organisational behavior, leadership theory, change management, conflict resolution]
 - End with 3-4 discussion questions that require critical thinking and application of management theory
 
-The case should be challenging but appropriate for students who have covered [list topics they've learned: e.g., organizational theory, leadership, human behavior, strategic management].
+The case should be challenging but appropriate for students who have covered [list topics they've learned: e.g., organisational theory, leadership, human behavior, strategic management].
 
 Begin.
 ```
 
 **Complex Scenario with Multiple Stakeholders (Adapted for Management):**
 ```
-You are an expert in organizational behavior and management.
+You are an expert in organisational behaviour and management.
 
 Create a complex management scenario involving [number: e.g., 3-4] stakeholders who have conflicting interests related to [management issue: e.g., restructuring plan, performance management system, diversity initiative, remote work policy].
 
@@ -1348,9 +1348,9 @@ For each stakeholder, provide:
 
 The scenario should require students to:
 - Analyse multiple perspectives
-- Identify underlying organizational dynamics
+- Identify underlying organisational dynamics
 - Recommend a management strategy that balances competing interests
-- Apply at least one management theory [specify if desired: e.g., organizational justice, motivation theory, leadership models, change management frameworks]
+- Apply at least one management theory [specify if desired: e.g., organisational justice, motivation theory, leadership models, change management frameworks]
 
 Make the scenario realistic with no easy "right answer."
 
@@ -1364,7 +1364,7 @@ Begin.
 You are a Management lecturer providing detailed feedback on a student assignment.
 
 ASSIGNMENT TASK:
-[Describe what students were asked to do: e.g., "Develop a change management plan for an organizational restructuring and justify your approach with reference to management theory"]
+[Describe what students were asked to do: e.g., "Develop a change management plan for an organisational restructuring and justify your approach with reference to management theory"]
 
 ASSESSMENT RUBRIC:
 [List criteria, e.g.,:
@@ -1372,7 +1372,7 @@ ASSESSMENT RUBRIC:
 - Change strategy (appropriateness of approach and implementation plan)
 - Resistance management (identification and mitigation of barriers)
 - Communication planning (effectiveness of messaging and engagement)
-- Theoretical application (appropriate use of management and organizational theory)]
+- Theoretical application (appropriate use of management and organisational theory)]
 
 YOUR TASK:
 1. Evaluate the student's work against each criterion
@@ -1424,7 +1424,7 @@ Begin your feedback.
 **5. Stakeholder Dynamics:**
 - Adapt personas to reflect typical roles in the industry
 - Include appropriate power dynamics and relationships
-- Consider cultural and organizational context factors
+- Consider cultural and organisational context factors
 
 ### Quality Assurance
 

@@ -50,7 +50,7 @@ As a business educator across any discipline, you're not preparing students for 
 ## Marketing
 - Analyse customer data and segment audiences
 - Generate campaign strategies and content
-- Predict customer behavior and preferences
+- Predict customer behaviour and preferences
 - Optimize pricing and promotional strategies
 - Analyse competitive positioning
 
@@ -219,15 +219,15 @@ Some assignments are easier to misuse with AI than others. Here's how to design 
 **Vulnerable design:** "Analyse the pros and cons of [generic professional concept]."
 - Generic question AI can answer generally
 
-**Integrity-resistant design:** "Based on your earlier [simulation/analysis/project], analyse how [concept] would address the specific situation while meeting [organizational/business requirement]."
-- Requires integration of previous personalized work
+**Integrity-resistant design:** "Based on your earlier [simulation/analysis/project], analyse how [concept] would address the specific situation while meeting [organisational/business requirement]."
+- Requires integration of previous personalised work
 - Context is unique to each student
 - Generic AI response won't fit
 
 **Examples by discipline:**
-- HR: "Based on your PIP simulation with Jamie, analyze flexible work approaches"
+- HR: "Based on your PIP simulation with Jamie, analyse flexible work approaches"
 - Finance: "Based on your company analysis, evaluate investment timing strategies"
-- Supply Chain: "Based on your supplier evaluation, analyze relationship strategies"
+- Supply Chain: "Based on your supplier evaluation, analyse relationship strategies"
 - Marketing: "Based on your segment analysis, evaluate messaging approaches"
 
 ### Principle 4: Assess Revision and Iteration
@@ -465,7 +465,7 @@ One of the most powerful ways to address integrity is to make it a learning obje
 
 ## HR: The Over-Reliance on Turnover Analysis
 
-> "You used AI to analyze exit interview data and generate turnover reduction recommendations. You presented them to senior management and implemented them. Six months later, turnover has increased.
+> "You used AI to analyse exit interview data and generate turnover reduction recommendations. You presented them to senior management and implemented them. Six months later, turnover has increased.
 >
 > Reflection questions:
 > 1. What might the AI have missed in its analysis?
@@ -605,7 +605,7 @@ When your graduates enter the workforce across all business disciplines, they wi
 - AI-powered customer segmentation and targeting
 - Algorithmic campaign optimization
 - AI-generated content and recommendations
-- Automated personalization at scale
+- Automated personalisation at scale
 
 ## Information Systems
 - AI-assisted code generation and testing
