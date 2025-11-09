@@ -12,14 +12,14 @@ book:
     - first-steps.qmd
     - seven-techniques.qmd
     - flight-simulator.qmd
-    - self-assessment.qmd
     - critique-toolkit.qmd
     - ethics-integrity.qmd
     - process-assessment.qmd
+    - self-assessment.qmd
     - virtual-company.qmd
     - unit-design.qmd
-    - research-assistant.qmd
     - static-to-interactive.qmd
+    - research-assistant.qmd
     - conclusion.qmd
   appendices:
     - prompt-library.qmd
